@@ -1,0 +1,249 @@
+[
+  {
+    "link": "https://www.decathlon.de/",
+    "name": "Alemanha"
+  },
+  {
+    "link": "https://www.decathlon.at/",
+    "name": "Áustria"
+  },
+  {
+    "link": "https://www.decathlon.be/fr/",
+    "name": "Bélgica"
+  },
+  {
+    "link": "https://www.decathlon.bg/",
+    "name": "Bulgária"
+  },
+  {
+    "link": "https://www.decathlon.hr/",
+    "name": "Croácia"
+  },
+  {
+    "link": "https://www.decathlon.sk/",
+    "name": "Eslováquia"
+  },
+  {
+    "link": "https://www.decathlon.si/",
+    "name": "Eslovênia"
+  },
+  {
+    "link": "https://www.decathlon.es/es/",
+    "name": "Espanha"
+  },
+  {
+    "link": "https://www.decathlon.fr/",
+    "name": "França"
+  },
+  {
+    "link": "https://www.decathlon.com.gr/el/",
+    "name": "Grécia"
+  },
+  {
+    "link": "https://www.decathlon.hu/",
+    "name": "Hungria"
+  },
+  {
+    "link": "https://www.decathlon.ie/",
+    "name": "Irlanda"
+  },
+  {
+    "link": "https://www.decathlon.co.il/iw/",
+    "name": "Israel"
+  },
+  {
+    "link": "https://www.decathlon.it/",
+    "name": "Itália"
+  },
+  {
+    "link": "https://decathlon.lv/en/",
+    "name": "Letônia"
+  },
+  {
+    "link": "https://www.decathlon.lt/lt/",
+    "name": "Lituânia"
+  },
+  {
+    "link": "https://www.decathlon.mt/",
+    "name": "Malta"
+  },
+  {
+    "link": "https://www.decathlon.nl/",
+    "name": "Países Baixos"
+  },
+  {
+    "link": "https://www.decathlon.pl/",
+    "name": "Pôlonia"
+  },
+  {
+    "link": "https://www.decathlon.pt/",
+    "name": "Portugal"
+  },
+  {
+    "link": "https://www.decathlon.co.uk/",
+    "name": "Reino Unido"
+  },
+  {
+    "link": "https://www.decathlon.cz/",
+    "name": "República Checa"
+  },
+  {
+    "link": "https://www.decathlon.ro/",
+    "name": "Romênia"
+  },
+  {
+    "link": "https://www.decathlon.ru/",
+    "name": "Russia"
+  },
+  {
+    "link": "https://www.decathlon.rs/",
+    "name": "Sérvia"
+  },
+  {
+    "link": "https://www.decathlon.se/",
+    "name": "Suécia"
+  },
+  {
+    "link": "https://www.decathlon.ch/de/splashpage/",
+    "name": "Suíça"
+  },
+  {
+    "link": "https://www.decathlon.com.tr/",
+    "name": "Turquia"
+  },
+  {
+    "link": "https://www.decathlon.ua/uk/",
+    "name": "Ucrânia"
+  },
+  {
+    "link": "https://www.decathlon.com.kh/en/",
+    "name": "Cambodja"
+  },
+  {
+    "link": "https://www.decathlonkz.com/",
+    "name": "Cazaquistão"
+  },
+  {
+    "link": "https://www.decathlon.com.cn/en/",
+    "name": "China"
+  },
+  {
+    "link": "https://www.decathlon.co.kr/kr_en/",
+    "name": "Coreia do Sul"
+  },
+  {
+    "link": "https://www.decathlon.ph/",
+    "name": "Filipinas"
+  },
+  {
+    "link": "https://www.decathlon.in/",
+    "name": "Índia"
+  },
+  {
+    "link": "https://www.decathlon.co.id/in/",
+    "name": "Indonésia"
+  },
+  {
+    "link": "https://www.decathlon.co.jp/",
+    "name": "Japão"
+  },
+  {
+    "link": "https://www.decathlon.my/",
+    "name": "Malásia"
+  },
+  {
+    "link": "https://www.decathlon.sg/",
+    "name": "Singapura"
+  },
+  {
+    "link": "https://decathlon.lk/",
+    "name": "Sri Lanka"
+  },
+  {
+    "link": "https://www.decathlon.co.th/en",
+    "name": "Tailândia"
+  },
+  {
+    "link": "https://www.decathlon.tw/zh",
+    "name": "Taiwan"
+  },
+  {
+    "link": "https://www.decathlon.vn/",
+    "name": "Vietnam"
+  },
+
+  {
+    "link": "/",
+    "name": "Brasil"
+  },
+  {
+    "link": "https://www.decathlon.ca/en/",
+    "name": "Canadá"
+  },
+  {
+    "link": "https://www.decathlon.cl/",
+    "name": "Chile"
+  },
+  {
+    "link": "https://www.decathlon.com.co/",
+    "name": "Colômbia"
+  },
+  {
+    "link": "https://www.decathlon.com/",
+    "name": "Estados Unidos"
+  },
+  {
+    "link": "https://www.decathlon.com.mx/",
+    "name": "México"
+  },
+
+  {
+    "link": "https://www.decathlon.co.za/",
+    "name": "África do Sul"
+  },
+  {
+    "link": "https://www.decathlon.com.dz/",
+    "name": "Argélia"
+  },
+  {
+    "link": "https://www.decathlon.ci/",
+    "name": "Costa do Marfim"
+  },
+  {
+    "link": "https://www.decathlon.eg/ar/",
+    "name": "Egito"
+  },
+  {
+    "link": "https://www.decathlon.com.gh/",
+    "name": "Gana"
+  },
+  {
+    "link": "https://www.decathlon.ma/",
+    "name": "Marrocos"
+  },
+  {
+    "link": "https://www.decathlon.co.ke/",
+    "name": "Quénia"
+  },
+  {
+    "link": "https://www.decathlon-rdc.com/",
+    "name": "República do Congo"
+  },
+  {
+    "link": "https://decathlon.sn/",
+    "name": "Senegal"
+  },
+  {
+    "link": "https://www.decathlon.tn/",
+    "name": "Tunísia"
+  },
+
+  {
+    "link": "https://decathlon.com.au/",
+    "name": "Austrália"
+  },
+  {
+    "link": "https://www.decathlon.be/static/lux/startpage/",
+    "name": "Luxemburgo"
+  }
+]

@@ -1,0 +1,29 @@
+.boxItb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.listItb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 26px;
+}
+
+.iconItb{
+    color: #fff;
+    margin-right: 10px;
+}
+
+.textItb1{
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.textItb2{
+    font-size: 12px;
+    font-weight: 400;
+    color: #fff;
+}

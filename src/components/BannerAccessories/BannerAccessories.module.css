@@ -1,0 +1,32 @@
+.ContainerBannerAccessories{
+    padding: 0 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.boxImg1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.boxImg2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.itemImgBox1, .itemImgBox2{
+    margin: 25px 0;
+}
+
+@media (min-width: 650px) {
+    .itemImgBox1{
+        margin: 0 10px;
+    }
+}

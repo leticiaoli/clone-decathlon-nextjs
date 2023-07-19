@@ -1,0 +1,20 @@
+.headerDesk{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #0082c3; 
+    padding: 24px 32px;
+    box-sizing: border-box;
+}
+
+.cartDesktop{
+    margin-left: 16px;
+}
+
+@media (min-width: 1400px) {
+    .headerDesk {
+        padding: 24px 97px;
+    }
+}

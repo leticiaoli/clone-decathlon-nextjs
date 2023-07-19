@@ -1,0 +1,2656 @@
+{
+  "departments": [
+    {
+      "title": "Navegue por Esportes",
+      "url": "/#",
+      "typeDestinySectionLevel01": "abrir-listagem",
+      "UriSectionLevel01": "",
+      "imageBannerDesktop": "/arquivos/image-empty-280x360.png",
+      "imageBannerMobile": "/arquivos/image-empty-337x190.png",
+      "linkBanner": "/#",
+      "typeDestinyBannerLevel01": "abrir-listagem",
+      "UriBannerLevel01": "",
+      "iconAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/b1d697e5-7b9a-4fee-9422-56450bba05fb___b68495d71a55539926956601939fcf36.png",
+      "categories": [
+        {
+          "title": "Esportes em destaque",
+          "url": "",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Esportes em destaque",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/c0cb4279-d759-4c1d-afed-8a97a3b9b7a0___1555f1433b6d6a6bb140c880382e19c2.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Corrida",
+              "url": "/corrida",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:corrida"
+            },
+            {
+              "title": "Trilha e Trekking",
+              "url": "/trilha-e-trekking",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:trilha-e-trekking"
+            },
+            {
+              "title": "Treino cardio",
+              "url": "/treino-cardio",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:treino-cardio"
+            },
+            {
+              "title": "Surf",
+              "url": "/surf-e-bodyboard",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:surf-e-bodyboard"
+            },
+            {
+              "title": "Beach Tênis",
+              "url": "/beach-tennis",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:beach-tennis"
+            },
+            {
+              "title": "Futebol",
+              "url": "/futebol-de-campo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futebol"
+            },
+            {
+              "title": "Basquete",
+              "url": "/basquete",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:basquete"
+            },
+            {
+              "title": "Natação",
+              "url": "/natacao",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:natacao"
+            },
+            {
+              "title": "Ciclismo",
+              "url": "/ciclismo-estrada",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:grupo-de-esporte:ciclismo"
+            },
+            {
+              "title": "Elétricos",
+              "url": "/pesquisa/?q=ciclismo-eletrico",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ciclismo-eletricos"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Todos os esportes",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Todos os Esportes",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/d84c1b79-5fa7-4d27-beba-9d584c939bd7___9d8f87ee0e784bc01b91aec49f51b797.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Arco e flecha",
+              "url": "/esporte/arco-e-flecha",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:arco-e-flecha"
+            },
+            {
+              "title": "Atletismo",
+              "url": "/esportes/atletismo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:atletismo"
+            },
+            {
+              "title": "Badminton",
+              "url": "/esportes/badminton",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:badminton"
+            },
+            {
+              "title": "Ballet",
+              "url": "/esportes/ballet",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ballet"
+            },
+            {
+              "title": "Barco a vela",
+              "url": "/esportes/barco-a-vela",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:barco-a-vela"
+            },
+            {
+              "title": "Basquete",
+              "url": "/esportes/basquete",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:basquete"
+            },
+            {
+              "title": "Beach tênis",
+              "url": "/esportes/beach-tennis",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:beach-tennis"
+            },
+            {
+              "title": "Beisebol",
+              "url": "/esportes/beisebol",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:beisebol"
+            },
+            {
+              "title": "Bets",
+              "url": "/esportes/taco-de-bets",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:bets"
+            },
+            {
+              "title": "Boxe e muay thai",
+              "url": "/esportes/boxe-e-muay-thai",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:boxe-e-muay-thai"
+            },
+            {
+              "title": "Bumerangue",
+              "url": "/esportes/bumerangues",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:bumerangue"
+            },
+            {
+              "title": "Caiaque",
+              "url": "/esportes/caiaque",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:caiaque"
+            },
+            {
+              "title": "Caminhada",
+              "url": "/esportes/caminhada",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:caminhada"
+            },
+            {
+              "title": "Camping",
+              "url": "/esportes/camping",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:camping"
+            },
+            {
+              "title": "Ciclismo estrada",
+              "url": "/esportes/ciclismo-estrada",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:cilismo-estrada"
+            },
+            {
+              "title": "Dança moderna",
+              "url": "/esportes/danca-moderna",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:danca-moderna"
+            },
+            {
+              "title": "Ciclismo urbano",
+              "url": "/esportes/ciclismo-urbano",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ciclismo-urbano"
+            },
+            {
+              "title": "Corrida",
+              "url": "/esportes/corrida",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:corrida"
+            },
+            {
+              "title": "Dardos",
+              "url": "/esportes/dardos",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:dardos"
+            },
+            {
+              "title": "Ciclismo infantil ",
+              "url": "/esportes/ciclismo-Infantil",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ciclismo-infantil"
+            },
+            {
+              "title": "Escalada e Alpinismo",
+              "url": "/esportes/escalada-e-alpinismo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:escalada-e-alpinismo"
+            },
+            {
+              "title": "Frescobol",
+              "url": "/esportes/frescobol",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:frescobol"
+            },
+            {
+              "title": "Frisbie",
+              "url": "/esportes/frisbee",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:frisbee"
+            },
+            {
+              "title": "Funcional e cross training",
+              "url": "/esportes/funcional-e-cross-training",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:funcional-e-cross-training"
+            },
+            {
+              "title": "Futebol de campo",
+              "url": "/esportes/futebol-de-campo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futebol"
+            },
+            {
+              "title": "Futebol americano",
+              "url": "/esportes/futebol-americano",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futebol-americano"
+            },
+            {
+              "title": "Futebol de areia",
+              "url": "/esportes/futebol-de-areia",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futebol-de-areia"
+            },
+            {
+              "title": "Futsal",
+              "url": "/esportes/futsal",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futsal"
+            },
+            {
+              "title": "Ginástica Artística e Rítmica",
+              "url": "/pesquisa/?q=ginastica-artistica-e-ritmica",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ginastica-artistica-e-ritmica"
+            },
+            {
+              "title": "Golf",
+              "url": "/esportes/golf",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:golf"
+            },
+            {
+              "title": "Handebol",
+              "url": "/esportes/handebol",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:handebol"
+            },
+            {
+              "title": "Hidroginástica",
+              "url": "/esportes/hidroginastica",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:hidroginastica"
+            },
+            {
+              "title": "Hipismo",
+              "url": "/esportes/hipismo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:hipismo"
+            },
+            {
+              "title": "Hóquei na grama",
+              "url": "/esportes/hoquei-na-grama",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:hoquei-na-grama"
+            },
+            {
+              "title": "Jiu-Jitsu",
+              "url": "/esportes/jiu-jitsu",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:jiu-jitsu"
+            },
+            {
+              "title": "Judô",
+              "url": "/esportes/judo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:judo"
+            },
+            {
+              "title": "Karatê",
+              "url": "/esportes/karate",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:karate"
+            },
+            {
+              "title": "Mergulho e snorkeling",
+              "url": "/esportes/mergulho-e-snorkeling",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:mergulho-e-snorkeling"
+            },
+            {
+              "title": "Mountain bike",
+              "url": "/esportes/ciclismo-mountain-bike",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:mountain-bike"
+            },
+            {
+              "title": "Musculação",
+              "url": "/esportes/musculacao",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:musculação"
+            },
+            {
+              "title": "Natação",
+              "url": "/esportes/natacao",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:natacao"
+            },
+            {
+              "title": "Observação da natureza",
+              "url": "/esportes/observacao-da-natureza",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:observacao-da-natureza"
+            },
+            {
+              "title": "Padel",
+              "url": "/esportes/padel",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:padel"
+            },
+            {
+              "title": "Patinetes",
+              "url": "/esportes/patinetes",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:patinete"
+            },
+            {
+              "title": "Patins",
+              "url": "/esportes/patins",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:patins"
+            },
+            {
+              "title": "Pesca",
+              "url": "/esportes/pesca",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:pesca"
+            },
+            {
+              "title": "Petanca",
+              "url": "/esportes/petanca",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:petanca"
+            },
+            {
+              "title": "Peteca",
+              "url": "/esportes/peteca",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:peteca"
+            },
+            {
+              "title": "Pilates",
+              "url": "/esportes/pilates-e-ginastica-adultos",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:pilates"
+            },
+            {
+              "title": "Pipa",
+              "url": "/esportes/pipas",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:pipa"
+            },
+            {
+              "title": "Polo aquático",
+              "url": "/esportes/polo-aquatico",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:polo-aquatico"
+            },
+            {
+              "title": "Rugby",
+              "url": "/esportes/rugby",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:rugby"
+            },
+            {
+              "title": "Skate",
+              "url": "/esportes/skateboards",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:skate"
+            },
+            {
+              "title": "Ski e Snowboard",
+              "url": "/esportes/ski-e-snowboard",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ski-e-snowboard"
+            },
+            {
+              "title": "Slackline",
+              "url": "/esportes/slackline",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:slackline"
+            },
+            {
+              "title": "Society",
+              "url": "/esportes/society",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:society"
+            },
+            {
+              "title": "Speedball",
+              "url": "/esportes/speedball",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:speedball"
+            },
+            {
+              "title": "Squash",
+              "url": "/esportes/squash",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:squash"
+            },
+            {
+              "title": "Stand up paddle",
+              "url": "/esportes/stand-up-paddle",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:stand-up-paddle"
+            },
+            {
+              "title": "Surf e bodyboard",
+              "url": "/esportes/surf-e-bodyboard",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:surf-e-bodyboard"
+            },
+            {
+              "title": "Tênnis",
+              "url": "/esportes/tennis",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:tennis"
+            },
+            {
+              "title": "Tênis de mesa",
+              "url": "/esportes/tenis-de-mesa-e-ping-pong",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:tenis-de-mesa"
+            },
+            {
+              "title": "Trail running",
+              "url": "/esportes/trail-running",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:trail-running"
+            },
+            {
+              "title": "Treino cardio",
+              "url": "/esportes/treino-cardio",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:treino-cardio"
+            },
+            {
+              "title": "Triathlon",
+              "url": "/esportes/triathlon",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:triathlon"
+            },
+            {
+              "title": "Trilha e Trekking",
+              "url": "/esportes/trilha-e-trekking",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:trilha-e-trekking"
+            },
+            {
+              "title": "Volei",
+              "url": "/esportes/volei-de-quadra",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:volei"
+            },
+            {
+              "title": "Vôlei de praia",
+              "url": "/esportes/volei-de-praia",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:volei-de-praia"
+            },
+            {
+              "title": "Yoga",
+              "url": "/esportes/yoga",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:yoga"
+            }
+          ]
+        },
+        {
+          "title": "Raquetes",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Raquetes",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/dbce0d98-da71-4453-9576-3835012247da___f247ae2219f426ebc7fcc4b302634553.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Badminton",
+              "url": "/esportes/badminton",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:badminton"
+            },
+            {
+              "title": "Frescobol",
+              "url": "/esportes/frescobol",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:frescobol"
+            },
+            {
+              "title": "Speedball",
+              "url": "/esportes/speedball",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:speedball"
+            },
+            {
+              "title": "Squash",
+              "url": "/esportes/squash",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:squash"
+            },
+            {
+              "title": "Tênis de mesa",
+              "url": "/esportes/tenis-de-mesa-e-ping-pong",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:tenis-de-mesa"
+            },
+            {
+              "title": "Tennis",
+              "url": "/esportes/tennis",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:tennis"
+            },
+            {
+              "title": "Padel",
+              "url": "/esportes/padel",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:padel"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Alvo e precisão",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Alvo",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/4ff7a84c-072a-4ce6-abd0-0522658d65ff___82e8599bec088cefbf5a45e4a0053d2b.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Dardos",
+              "url": "/esportes/dardos",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:dardos"
+            },
+            {
+              "title": "Arco e flecha",
+              "url": "/esportes/arco-e-flecha",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:arco-e-flecha"
+            },
+            {
+              "title": "Golf",
+              "url": "/esportes/golf",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:golf"
+            },
+            {
+              "title": "Petanca",
+              "url": "/pesquisa/?q=petanca",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:petanca"
+            },
+            {
+              "title": "Bets",
+              "url": "/esportes/taco-de-bets",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:bets"
+            },
+            {
+              "title": "Peteca",
+              "url": "/esportes/peteca",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:peteca"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Aquáticos no mar",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Aquáticos do Mar",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/badedf0f-5240-4c40-ac63-d97884d6b093___d283cbbc03dc9d587f14170aafb22d9c.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Stand up paddle",
+              "url": "/esportes/stand-up-paddle",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:stand-up-paddle"
+            },
+            {
+              "title": "Barco a vela",
+              "url": "/esportes/barco-a-vela",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:barco-a-vela"
+            },
+            {
+              "title": "Caiaque",
+              "url": "/esportes/caiaque",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:caiaque"
+            },
+            {
+              "title": "Mergulho e snorkeling",
+              "url": "/esportes/mergulho-e-snorkeling",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:mergulho-e-snorkeling"
+            },
+            {
+              "title": "Surf e bodyboard",
+              "url": "/esportes/surf-e-bodyboard",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:surf-e-bodyboard"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Aquáticos na Piscina",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Aquáticos na Piscina",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/aec9cff3-ed5f-44eb-a4ee-92a0f8840798___1b4433de4240d3aed03352f4c3d92525.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Hidroginástica",
+              "url": "/esportes/hidroginastica",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:hidroginastica"
+            },
+            {
+              "title": "Natação",
+              "url": "/esportes/natacao",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:natacao"
+            },
+            {
+              "title": "Polo aquático",
+              "url": "/esportes/polo-aquatico",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:polo-aquatico"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Dança",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Dança",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/98fdeeff-84d4-4bf1-94b0-0e4be999cae2___81cf089b953e0ee817bda3a3f0fbee20.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Ballet",
+              "url": "/esportes/ballet",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ballet"
+            },
+            {
+              "title": "Dança moderna",
+              "url": "/esportes/danca-moderna",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:danca-moderna"
+            },
+            {
+              "title": "Ginástica artística e rítmica",
+              "url": "/esportes/ginastica-artistica-e-ritmica",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ginastica-artistica-e-ritmica"
+            }
+          ],
+          "includeModule": false
+        },
+        {
+          "title": "Areia",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Aquáticos do Mar",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/c02681ea-3743-4966-a994-42acf160a338___96209783e3e161e92a05141a3cc12d13.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Beach tênis",
+              "url": "/esportes/beach-tennis",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:beach-tennis"
+            },
+            {
+              "title": "Vôlei de praia",
+              "url": "/esportes/volei-de-praia",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:volei-de-praia"
+            },
+            {
+              "title": "Futebol de areia",
+              "url": "/esportes/futebol-de-areia",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futebol-de-areia"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Musculação & Fitness",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Musculação & Fitness",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/e2cc42c0-4650-4d7c-9e1e-1d888fbe11d5___c3cb7b8c8c7bcf1eee7448c435144fd1.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Funcional e cross training",
+              "url": "/esportes/funcional-e-cross-training",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:funcional-e-cross-training"
+            },
+            {
+              "title": "Musculação",
+              "url": "/esportes/musculacao",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:musculação"
+            },
+            {
+              "title": "Treino cardio",
+              "url": "/esportes/treino-cardio",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:treino-cardio"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Pilates e Yoga",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Pilates e Yoga",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/6f3089e7-2c3c-42ad-9971-55ca9d5e9a01___b18aca563a34127fb510136eb061b5d1.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Pilates",
+              "url": "/esportes/pilates-e-ginastica-adultos",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:pilates"
+            },
+            {
+              "title": "Yoga",
+              "url": "/esportes/yoga",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:yoga"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Esportes em time",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Coletivos",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/bfc0580f-db23-4d5c-a72d-486366ebdb0d___4abd52412f92ca0d799506d22d87ae65.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Basquete",
+              "url": "/esportes/basquete",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:basquete"
+            },
+            {
+              "title": "Beisebol",
+              "url": "/esportes/beisebol",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:beisebol"
+            },
+            {
+              "title": "Futebol",
+              "url": "/esportes/futebol-de-campo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futebol"
+            },
+            {
+              "title": "Futebol americano",
+              "url": "/esportes/futebol-americano",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futebol-americano"
+            },
+            {
+              "title": "Handebol",
+              "url": "/esportes/handebol",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:handebol"
+            },
+            {
+              "title": "Rugby",
+              "url": "/esportes/rugby",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:rugby"
+            },
+            {
+              "title": "Vôlei",
+              "url": "/esportes/volei-de-quadra",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:volei"
+            },
+            {
+              "title": "Society",
+              "url": "/esportes/society",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:society"
+            },
+            {
+              "title": "Futsal",
+              "url": "/esportes/futsal",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:futsal"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Montanha, camping & trilha",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Montanha, Camping e Trilha",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/8ca69c43-c1d2-40a5-b816-3623b2cf3933___df7e8f0fd2f243f3c6775fc303999d61.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Trilha e Trekking",
+              "url": "/esportes/trilha-e-trekking",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:trilha-e-trekking"
+            },
+            {
+              "title": "Camping",
+              "url": "/esportes/camping",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:camping"
+            },
+            {
+              "title": "Escalada e Alpinismo",
+              "url": "/esportes/escalada-e-alpinismo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:escalada-e-alpinismo"
+            },
+            {
+              "title": "Observação da natureza",
+              "url": "/esportes/observacao-da-natureza",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:observacao-da-natureza"
+            },
+            {
+              "title": "Ski e snowboard",
+              "url": "/esportes/ski-e-snowboard",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ski-e-snowboard"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Luta",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Luta",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/b1a33e83-4d41-4320-ba7f-8ecaf2c8ea4b___f6bfe7d243b7a4b9b0fe0d59cbd51dc8.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Boxe e muay thai",
+              "url": "/esportes/boxe-e-muay-thai",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:boxe-e-muay-thai"
+            },
+            {
+              "title": "Jiu Jitsu",
+              "url": "/esportes/jiu-jitsu",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:jiu-jitsu"
+            },
+            {
+              "title": "Judô",
+              "url": "/esportes/judo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:judo"
+            },
+            {
+              "title": "Karatê",
+              "url": "/esportes/karate",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:karate"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Corrida e caminhada",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Novidades",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/d51346c4-bfcd-4cf5-bf82-2be0c8f4b998___ab0cc6c68f2294e2a80576a991b0a219.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Caminhada",
+              "url": "/esportes/caminhada",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:caminhada"
+            },
+            {
+              "title": "Corrida",
+              "url": "/esportes/corrida",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:corrida"
+            },
+            {
+              "title": "Trail running",
+              "url": "/esportes/trail-running",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:trail-running"
+            },
+            {
+              "title": "Atletismo",
+              "url": "/esportes/atletismo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:atletismo"
+            },
+            {
+              "title": "Triathlon",
+              "url": "/esportes/triathlon",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:triathlon"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Ciclismo",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Ciclismo",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/de30c408-b001-4010-8076-2e6cea6c32e2___2fcdbbdf983081c05ac389a01b155cda.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Estrada",
+              "url": "/esportes/ciclismo-estrada",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:cilismo-estrada"
+            },
+            {
+              "title": "Infantil",
+              "url": "/esportes/ciclismo-Infantil",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ciclismo-infantil"
+            },
+            {
+              "title": "Mountain bike",
+              "url": "/esportes/ciclismo-Mountain-bike",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:mountain-bike"
+            },
+            {
+              "title": "Urbano",
+              "url": "/esportes/ciclismo-Urbano",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ciclismo-urbano"
+            },
+            {
+              "title": "Elétrico",
+              "url": "/pesquisa?q=ciclismo+eletrico&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:ciclismo-eletricos"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Esportes Urbanos",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Deslize Urbano",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/ae4c472b-3d95-43c6-a476-3124771970b8___39c8e8ba4ba75bcdf27801048ea6edd0.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Patinete",
+              "url": "/esportes/patinete",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:patinete"
+            },
+            {
+              "title": "Patins",
+              "url": "/esportes/patins",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:patins"
+            },
+            {
+              "title": "Skate",
+              "url": "/esportes/skate",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:skate"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Esportes ao ar livre",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Esportes ao Ar Livre",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/00537e62-f730-49d7-ab79-a01ed71ddda3___9632e8fbb4c8c6d7cf8026286bdfa841.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Bumerangue",
+              "url": "/esportes/bumerangues",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:bumetangue"
+            },
+            {
+              "title": "Pipa",
+              "url": "/esportes/pipas",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:pipa"
+            },
+            {
+              "title": "Frisbie",
+              "url": "/esportes/frisbee",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:frisbee"
+            },
+            {
+              "title": "Slackline",
+              "url": "/esportes/slackline",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:slackline"
+            },
+            {
+              "title": "Hipismo",
+              "url": "/esportes/hipismo",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:hipismo"
+            },
+            {
+              "title": "Pesca",
+              "url": "/esportes/pesca",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:esporte:pesca"
+            }
+          ],
+          "includeModule": true
+        }
+      ],
+      "includeModule": false
+    },
+    {
+      "title": "Feminino",
+      "url": "/#",
+      "typeDestinySectionLevel01": "abrir-listagem",
+      "UriSectionLevel01": "",
+      "imageBannerDesktop": "/arquivos/image-empty-280x360.png",
+      "imageBannerMobile": "/arquivos/image-empty-337x190.png",
+      "linkBanner": "/#",
+      "typeDestinyBannerLevel01": "abrir-listagem",
+      "UriBannerLevel01": "",
+      "iconAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/9ba6e8fd-1f6f-4b22-8f12-20a3a30fad20___ae40facf9201f5fd94673e42fbc5064b.png",
+      "categories": [
+        {
+          "title": "Produtos Mais Vendidos",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Mais Vendidos",
+          "pictoAPP": "https://decathlonstore.vteximg.com.br/arquivos/default-campo-05.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Calças e leggings",
+              "url": "/pesquisa/?q=Calças e leggings femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371517/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Camisetas",
+              "url": "/pesquisa/?q=Camisetas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "Feminino > Roupas > Camisetas"
+            },
+            {
+              "title": "Agasalhos e fleeces",
+              "url": "/pesquisa/?q=Agasalhos e fleeces femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371507/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Tênis",
+              "url": "/pesquisa/?q=Tênis feminino",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371539/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Botas",
+              "url": "/pesquisa/?q=Botas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371532/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Mochilas, bolsas e malas",
+              "url": "/pesquisa/?q=Mochilas bolsas e malas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371677/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Kits e conjuntos",
+              "url": "/pesquisa/?q=Kits e conjuntos femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371663/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Bermudas e shorts",
+              "url": "/pesquisa/?q=Bermudas e shorts femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371518/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Tops e croppeds",
+              "url": "/pesquisa/?q=Tops e croppeds femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371494/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Chinelos",
+              "url": "/pesquisa/?q=Chinelos femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371533/&filter=d:genero:feminino"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Roupas",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Roupa",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/69664f4d-a724-48b7-8284-ee7337d76758___310bbb9e8d5d4d7194a1755ee0dea3ee.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Tops e croppeds",
+              "url": "/pesquisa/?q=Tops e croppeds femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371494/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Camisetas",
+              "url": "/pesquisa/?q=Camisetas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371495/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Jaquetas",
+              "url": "/pesquisa/?q=Jaquetas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371499/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Agasalhos e fleeces",
+              "url": "/pesquisa/?q=Agasalhos e fleeces femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371507/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Biquínis",
+              "url": "/pesquisa/?q=Biquínis",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371489/72371512/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Maiôs",
+              "url": "/pesquisa/?q=Maiôs",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371489/72371510/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Bermudas e shorts",
+              "url": "/pesquisa/?q=Bermudas e shorts femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371518/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Calças e leggings",
+              "url": "/pesquisa/?q=Calças e leggings femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371517/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Todas roupas femininas",
+              "url": "/pesquisa/?q=Roupas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/&filter=d:genero:feminino"
+            }
+          ]
+        },
+        {
+          "title": "Calçados",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Calçados",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/c7e9abdb-4d05-43e0-afc2-4959b7b0cadc___8e8158a5d1e85441d8ada5034b891e56.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Botas",
+              "url": "/pesquisa/?q=Botas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371532/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Chinelos",
+              "url": "/pesquisa/?q=Chinelos femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371533/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Botinas",
+              "url": "/pesquisa/?q=Botinas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371535/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Chuteiras",
+              "url": "/pesquisa/?q=Chuteiras femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371536/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Sandálias",
+              "url": "/pesquisa/?q=Sandálias femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371537/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Sapatilhas",
+              "url": "/pesquisa/?q=Sapatilhas femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371538/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Tênis",
+              "url": "/pesquisa/?q=Tênis feminino",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371539/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Meias",
+              "url": "/pesquisa/?q=Meias femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371530/72371530/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Meias calças",
+              "url": "/pesquisa/?q=Meias calças femininas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371530/72371543/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Todos calçados femininos",
+              "url": "/pesquisa/?q=calçados femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/&filter=d:genero:feminino"
+            }
+          ]
+        },
+        {
+          "title": "Acessórios",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Acessórios",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/d1763440-b855-49f8-a3b8-a040b1264e84___f5c7e3f4c0cf27228fc7322810eb4dd6.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Tapa bumbum",
+              "url": "/pesquisa/?q=Tapa bumbum",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371621/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Kits de proteção",
+              "url": "/pesquisa/?q=Kits de proteção",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371627/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Luvas",
+              "url": "/pesquisa/?q=Luvas",
+              "typeDestinyListing": "destino-final-plp-collection-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371619/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Mochilas, bolsas e malas",
+              "url": "/pesquisa/?q=Mochilas bolsas e malas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371677/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Boné, chapéu e viseira",
+              "url": "/pesquisa/?q=Boné, chapéu e viseira feminina",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371609/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Fitas e faixas",
+              "url": "/pesquisa/?q=Fitas e faixas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371683/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Cintas e cintos",
+              "url": "/pesquisa/?q=Cintas e cintos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371628/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Necessaire pochete",
+              "url": "/pesquisa/?q=Necessaire pochete",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371626/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Toalhas",
+              "url": "/pesquisa/?q=Toalhas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371689/&filter=d:genero:feminino"
+            },
+            {
+              "title": "Todos acessórios femininos",
+              "url": "/pesquisa/?q=acessórios femininos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/&filter=d:genero:feminino"
+            }
+          ]
+        }
+      ],
+      "includeModule": true
+    },
+    {
+      "title": "Masculino",
+      "url": "/#",
+      "typeDestinySectionLevel01": "abrir-listagem",
+      "UriSectionLevel01": "",
+      "imageBannerDesktop": "/arquivos/image-empty-280x360.png",
+      "imageBannerMobile": "/arquivos/image-empty-337x190.png",
+      "linkBanner": "/#",
+      "typeDestinyBannerLevel01": "abrir-listagem",
+      "UriBannerLevel01": "",
+      "iconAPP": "https://decathlonstore.vteximg.com.br/arquivos/default-campo-03.png",
+      "categories": [
+        {
+          "title": "Produtos Mais Vendidos",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Mais Vendidos",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/6038e4a0-d71a-4146-81c5-f697ed61a26c___3106669394c72187bcf16567471d2991.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Calças e leggings",
+              "url": "/pesquisa/?q=Calças masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371517/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Camisetas",
+              "url": "/pesquisa/?q=Camisetas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371495/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Agasalhos e fleeces",
+              "url": "/pesquisa/?q=Agasalhos e fleeces masculinos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371507/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Tênis",
+              "url": "/pesquisa/?q=Tênis masculino",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371539/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Botas",
+              "url": "/pesquisa/?q=Botas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371532/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Mochilas, bolsas e malas",
+              "url": "/pesquisa/?q=Mochilas bolsas e malas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371677/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Chuteiras",
+              "url": "/pesquisa/?q=Chuteiras",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371536/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Bermudas e shorts",
+              "url": "/pesquisa/?q=Bermudas e shorts masculinos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371518/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Chinelos",
+              "url": "/pesquisa/?q=Chinelos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371533/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Boné, chapéu e viseira ",
+              "url": "/pesquisa/?q=Boné, chapéu e viseira masculina",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371609/&filter=d:genero:masculino"
+            }
+          ],
+          "includeModule": true
+        },
+        {
+          "title": "Roupas",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Roupa",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/5d5c885d-95dd-43c5-a054-8ab31f5b5336___4c823d967467bc812294f9a9b7323d63.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Regatas",
+              "url": "/pesquisa/?q=Regatas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371493/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Camisetas",
+              "url": "/pesquisa/?q=Camisetas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371495/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Jaquetas",
+              "url": "/pesquisa/?q=Jaquetas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371499/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Agasalho e fleeces",
+              "url": "/pesquisa/?q=Agasalhos e fleeces masculinos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371507/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Sungas",
+              "url": "/pesquisa/?q=Sungas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371489/72371511/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Bermuda e shorts",
+              "url": "/pesquisa/?q=Bermudas e shorts masculinos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371518/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Calças e leggings",
+              "url": "/pesquisa/?q=Calças e leggings masculinos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371517/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Bretelles",
+              "url": "/pesquisa/?q=Bretelles",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371491/72371523/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Todas roupas masculinas",
+              "url": "/pesquisa/?q=Roupas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/&filter=d:genero:masculino"
+            }
+          ]
+        },
+        {
+          "title": "Calçados",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Calçados",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/359780c8-8023-400e-8f19-af4aa6edbc98___f2a862eed7fccff35b544fe00e16dfdc.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Botas",
+              "url": "/pesquisa/?q=Botas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371532/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Chinelos",
+              "url": "/pesquisa/?q=Chinelos masculinos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371533/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Botinas",
+              "url": "/pesquisa/?q=Botinas masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371535/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Chuteiras",
+              "url": "/pesquisa/?q=Chuteiras masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371536/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Sandálias",
+              "url": "/pesquisa/?q=Sandálias masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371537/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Meiões",
+              "url": "/pesquisa/?q=Meiões",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371530/72371542/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Tênis",
+              "url": "/pesquisa/?q=Tênis masculino",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371539/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Meias",
+              "url": "/pesquisa/?q=Meias masculinas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371530/72371530/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Cadarços",
+              "url": "/pesquisa/?q=Cadarços",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371716/72371545/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Todos calçados masculinos",
+              "url": "/pesquisa/?q=calçados masculinos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/&filter=d:genero:masculino"
+            }
+          ]
+        },
+        {
+          "title": "Acessórios",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Acessórios",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/46705557-2d61-4fda-bbb9-ec780c5dc38a___a1b121c77fa45699ea621826edd5f570.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Boné, chapeu e viseiras",
+              "url": "/pesquisa/?q=Boné, chapeu e viseiras",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371609/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Braçadeiras",
+              "url": "/pesquisa/?q=Braçadeiras",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371610/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Óculos",
+              "url": "/pesquisa/?q=Óculos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371613/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Luvas",
+              "url": "/pesquisa/?q=Luvas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371619/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Mochilas, bolsas e malas",
+              "url": "/pesquisa/?q=Mochilas bolsas e malas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371677/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Canivete e facas",
+              "url": "/pesquisa/?q=Canivete e facas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371674/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Kits e conjuntos",
+              "url": "/pesquisa/?q=Kits e conjuntos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371663/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Material e árbitro e técnico",
+              "url": "/pesquisa/?q=Material e árbitro e técnico",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371702/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Relógios esportivos",
+              "url": "/pesquisa/?q=Relógios esportivos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371623/&filter=d:genero:masculino"
+            },
+            {
+              "title": "Todos acessórios masculinos",
+              "url": "/pesquisa/?q=acessórios masculinos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/&filter=d:genero:masculino"
+            }
+          ]
+        }
+      ],
+      "includeModule": true
+    },
+    {
+      "title": "Infantil",
+      "url": "/#",
+      "typeDestinySectionLevel01": "abrir-listagem",
+      "UriSectionLevel01": "",
+      "imageBannerDesktop": "/arquivos/image-empty-280x360.png",
+      "imageBannerMobile": "/arquivos/image-empty-337x190.png",
+      "linkBanner": "/#",
+      "typeDestinyBannerLevel01": "abrir-listagem",
+      "UriBannerLevel01": "",
+      "iconAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/6ce313ce-aad4-4738-9474-cdd12a32a085___17a46fbf406d10e627f43783d20fd0c9.png",
+      "categories": [
+        {
+          "title": "Produtos mais vendidos",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Mais Vendidos",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/9b88e9ff-a791-42b5-929b-81ed2090f922___b0825cdbe546cf43799d83f01c0eab62.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Bicicletas",
+              "url": "/pesquisa/?q=Bicicletas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371737/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Patinetes",
+              "url": "/pesquisa/?q=Patinetes infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371754/"
+            },
+            {
+              "title": "Bermudas e shorts",
+              "url": "/pesquisa/?q=Bermudas e shorts infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371518/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Mochilas, bolsas e malas",
+              "url": "/pesquisa/?q=Mochilas bolsas e malas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371677/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Chuteiras",
+              "url": "/pesquisa/?q=Chuteiras infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371536/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Skates",
+              "url": "/pesquisa/?q=Skates infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371723/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Agasalhos e fleeces",
+              "url": "/pesquisa/?q=Agasalhos e fleeces infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371507/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Calças e leggings",
+              "url": "/pesquisa/?q=Calças e leggings infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371517/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Saias e tules",
+              "url": "/pesquisa/?q=Saias e tules infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371515/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Bolas",
+              "url": "/pesquisa/?q=Bolas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371747/"
+            }
+          ]
+        },
+        {
+          "title": "Novidades",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Novidades",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/1d17964e-ebd2-4387-957a-b7c78f3ab1b8___182d7be3da7caa20c05532d80aeb2399.png",
+          "typeThirtLevel": "3.5 Listagem simples"
+        },
+        {
+          "title": "Roupas",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Roupa",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/453de7d8-3f65-4c55-acd8-a7cad2f6b057___72a638d470694a2a0fddc5bef601da39.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Camisetas",
+              "url": "/pesquisa/?q=Camisetas infantil",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371495/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Agasalhos e fleeces",
+              "url": "/pesquisa/?q=Agasalhos e fleeces infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371507/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Capas de chuva",
+              "url": "/pesquisa/?q=Capas de chuva infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371501/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Roupões",
+              "url": "/pesquisa/?q=Roupões infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371488/72371504/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Sungas",
+              "url": "/pesquisa/?q=Sungas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371489/72371511/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Saias e tules",
+              "url": "/pesquisa/?q=Saias e tules infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371515/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Biquínis",
+              "url": "/pesquisa/?q=Biquínis infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371489/72371512/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Bermuda e shorts",
+              "url": "/pesquisa/?q=Bermuda e shorts infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371490/72371518/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Kimonos",
+              "url": "/pesquisa/?q=Kimonos infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371491/72371519/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Todas roupas infantis",
+              "url": "/pesquisa/?q=roupas infantis",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/&filter=d:genero:infantil"
+            }
+          ]
+        },
+        {
+          "title": "Calçados",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Calçados",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/0206491b-a1e1-4946-80b8-456695af9970___356faf0369b96c41bf072660d5d0ad1e.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Botas",
+              "url": "/pesquisa/?q=botas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371532/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Chinelos",
+              "url": "/pesquisa/?q=chinelos infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371533/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Botinas",
+              "url": "/pesquisa/?q=Botinas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371535/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Chuteiras",
+              "url": "/pesquisa/?q=Chuteiras infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371536/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Sandálias",
+              "url": "/pesquisa/?q=Sandálias infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371537/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Sapatilhas",
+              "url": "/pesquisa/?q=Sapatilhas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371538/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Tênis",
+              "url": "/pesquisa/?q=Tênis infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371539/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Meias",
+              "url": "/pesquisa/?q=Meias infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371530/72371530/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Meiões",
+              "url": "/pesquisa/?q=Meiões infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371530/72371542/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Todos calçados infantis",
+              "url": "/pesquisa/?q=calçados infantis",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/&filter=d:genero:infantil"
+            }
+          ]
+        },
+        {
+          "title": "Acessórios",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Novidades",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/3150b0d1-fcbe-441b-8c99-1cf774264c1f___d61c2ebf14bdc8330700c2563ef4cd12.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Boné, chapeu e viseiras",
+              "url": "/pesquisa/?q=Boné, chapeu e viseiras infantis",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371609/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Mochilas, bolsas e malas",
+              "url": "/pesquisa/?q=Mochilas bolsas e malas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371677/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Kits de proteção",
+              "url": "/pesquisa/?q=Kits de proteção infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371627/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Cadeirinhas de bebê",
+              "url": "/pesquisa/?q=Cadeirinhas de bebê",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371549/72371556/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Touca",
+              "url": "/pesquisa/?q=Touca infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371615/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Toalhas",
+              "url": "/pesquisa/?q=Toalhas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371689/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Capacetes",
+              "url": "/pesquisa/?q=Capacetes infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371629/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Luvas",
+              "url": "/pesquisa/?q=Luvas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371619/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Lancheiras",
+              "url": "/pesquisa/?q=Lancheiras infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371654/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Todos acessórios infantis",
+              "url": "/pesquisa/?q=acessórios infantis",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/&filter=d:genero:infantil"
+            }
+          ]
+        },
+        {
+          "title": "Iniciação",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Kit iniciação",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/75171620-24c0-4879-a91a-0f68fe78c1b4___a97effc7cb64f0f0c3586643fd280a38.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Kits de proteção ",
+              "url": "/pesquisa/?q=Kits de proteção infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371627/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Pranchas",
+              "url": "/pesquisa/?q=Pranchas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371744/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Boias e espaguetes",
+              "url": "/pesquisa/?q=Boias e espaguetes infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371697/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Bicicleta de equilibrio",
+              "url": "/pesquisa/?q=Bicicleta de equilibrio infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371737/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Rodinhas",
+              "url": "/pesquisa/?q=Rodinhas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371551/72371549/72371579/"
+            },
+            {
+              "title": "Faixa de graduação",
+              "url": "/pesquisa/?q=Faixa de graduação infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371683/"
+            },
+            {
+              "title": "Touca",
+              "url": "/pesquisa/?q=Touca infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371615/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Óculos de natação",
+              "url": "/pesquisa/?q=Óculos de natação infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371613/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Collant",
+              "url": "/pesquisa/?q=Collant infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371487/72371491/72371521/"
+            },
+            {
+              "title": "Chuteiras",
+              "url": "/pesquisa/?q=Chuteiras infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371525/72371529/72371536/&filter=d:genero:infantil"
+            }
+          ]
+        },
+        {
+          "title": "Para brincar",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Para Brincar",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/0efea272-8295-46d6-b3d2-251e213f31ce___f51a50010ff472eedc4a20fe83cb890a.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Jogos de imersão",
+              "url": "/pesquisa/?q=Jogos de imersão infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371657/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Kits e conjuntos",
+              "url": "/pesquisa/?q=Kits e conjuntos infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371657/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Peteca",
+              "url": "/pesquisa/?q=Peteca infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371725/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Cordas",
+              "url": "/pesquisa/?q=Cordas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371745/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Frisbie",
+              "url": "/pesquisa/?q=Frisbie",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371773/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Bambolês",
+              "url": "/pesquisa/?q=Bambolês infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371718/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Piscinas",
+              "url": "/pesquisa/?q=Piscinas infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371652/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Boias e espaguetes",
+              "url": "/pesquisa/?q=Boias e espaguetes infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371697/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Tacos",
+              "url": "/pesquisa/?q=Tacos infantil",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371761/&filter=d:genero:infantil"
+            },
+            {
+              "title": "Trampolim",
+              "url": "/pesquisa/?q=Trampolim",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371748/&filter=d:genero:infantil"
+            }
+          ]
+        }
+      ],
+      "includeModule": true
+    },
+    {
+      "title": "Acessórios",
+      "url": "/#",
+      "typeDestinySectionLevel01": "abrir-listagem",
+      "UriSectionLevel01": "",
+      "imageBannerDesktop": "/arquivos/image-empty-280x360.png",
+      "imageBannerMobile": "/arquivos/image-empty-337x190.png",
+      "linkBanner": "/#",
+      "typeDestinyBannerLevel01": "abrir-listagem",
+      "UriBannerLevel01": "",
+      "iconAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/ad54ffe9-a6ba-4d15-a523-3c78cb8d3b90___918481713222908b2bfee374589f2278.png",
+      "categories": [
+        {
+          "title": "Produtos mais vendidos",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Mais Vendidos",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/8efc15a1-b51c-4c53-a229-c49ba0b96dc2___9af842c5ba3d30f58061a9605e6c87fa.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Mochilas, bolsas e malas",
+              "url": "/pesquisa/?q=Mochilas, bolsas e malas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371677"
+            },
+            {
+              "title": "Toalhas",
+              "url": "/pesquisa/?q=Toalhas",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371689"
+            },
+            {
+              "title": "Manutenção",
+              "url": "/pesquisa/?q=Manutenção",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": ""
+            },
+            {
+              "title": "Boné, chapeu e viseiras",
+              "url": "/pesquisa/?q=Boné, chapeu e viseiras",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371609/"
+            },
+            {
+              "title": "Relógios esportivos",
+              "url": "/pesquisa/?q=Relógios esportivos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371623"
+            },
+            {
+              "title": "Kits de proteção",
+              "url": "/pesquisa/?q=Kits de proteção",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371627"
+            },
+            {
+              "title": "Whey Protein",
+              "url": "/pesquisa/?q=Whey Protein",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371548/72371602/"
+            },
+            {
+              "title": "Rodas e rolamentos",
+              "url": "/pesquisa/?q=Rodas e rolamentos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371549/72371579/"
+            }
+          ]
+        },
+        {
+          "title": "Novidades",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Novidades",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/b644c83c-e1a4-453d-b328-c18a69dd743e___431adba79d121e6b530d77b80acf745d.png",
+          "typeThirtLevel": "3.5 Listagem simples"
+        },
+        {
+          "title": "Peças",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Todos os Esportes",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/b0778745-faef-45d8-b4cb-a659a22feed6___05c9c9b4cb08d358f2069232a842c05d.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Decks e quilhas",
+              "url": "/pesquisa/?q=Decks e quilhas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371549/72371572/"
+            },
+            {
+              "title": "Suportes",
+              "url": "/pesquisa/?q=Suportes",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371549/72371567/"
+            },
+            {
+              "title": "Rodas e rolamentos",
+              "url": "/pesquisa/?q=Rodas e rolamentos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371549/72371579/"
+            },
+            {
+              "title": "Bagageiros e alforges",
+              "url": "/pesquisa/?q=Bagageiros e alforges",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371549/72371553/"
+            },
+            {
+              "title": "Tudo em peças",
+              "url": "/pesquisa/?q=peças",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371549"
+            }
+          ]
+        },
+        {
+          "title": "Vestuário",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Roupa",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/15ca0d7f-b5fd-4598-9ba7-cd90388e0085___974aa3667ade9b54cd817a34fd6c19e1.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Boné, chapeu e viseiras",
+              "url": "/pesquisa/?q=Boné, chapeu e viseiras",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371609/"
+            },
+            {
+              "title": "Necessaire e pochetes",
+              "url": "/pesquisa/?q=Necessaire e pochetes",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371626/"
+            },
+            {
+              "title": "Manguito e pernito",
+              "url": "/pesquisa/?q=Manguito e pernito",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371634/"
+            },
+            {
+              "title": "Cintas e cintos",
+              "url": "/pesquisa/?q=Cintas e cintos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/72371628/"
+            },
+            {
+              "title": "Tudo em vestuário",
+              "url": "/pesquisa/?q=vestuário",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371550/"
+            }
+          ]
+        },
+        {
+          "title": "Manutenção",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Manutenção",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/c33065ba-1ead-4b08-abfc-b9770a321299___43818f8ce9f29cf19ec4c45dcec0a864.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Cola",
+              "url": "/pesquisa/?q=Cola",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371551/72371640/"
+            },
+            {
+              "title": "Cuidado com couro",
+              "url": "/pesquisa/?q=Cuidado com couro",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371551/72371641/"
+            },
+            {
+              "title": "Ferramentas",
+              "url": "/pesquisa/?q=Ferramentas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371551/72371642/"
+            },
+            {
+              "title": "Manutenção e reparo",
+              "url": "/pesquisa/?q=Manutenção e reparo",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371551/72371645/"
+            },
+            {
+              "title": "Tudo em manutenção",
+              "url": "/pesquisa/?q=manutenção",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371551/"
+            }
+          ]
+        },
+        {
+          "title": "Apoio",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Apoio",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/8dc16368-e32c-40c9-95b0-f5ee23c90f75___a76d70039903e71fce7b25d2f93baaa2.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Raqueteiras",
+              "url": "/pesquisa/?q=Raqueteiras",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371700/"
+            },
+            {
+              "title": "Bomba de ar",
+              "url": "/pesquisa/?q=Bomba de ar",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371670/"
+            },
+            {
+              "title": "Iluminação e fonte de energia",
+              "url": "/pesquisa/?q=Iluminação e fonte de energia",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371664/"
+            },
+            {
+              "title": "Colchões e colchonetes",
+              "url": "/pesquisa/?q=Colchões e colchonetes",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/72371672/"
+            },
+            {
+              "title": "Tudo em apoio",
+              "url": "/pesquisa/?q=apoio",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371526/72371552/"
+            }
+          ]
+        }
+      ],
+      "includeModule": true
+    },
+    {
+      "title": "Equipamentos",
+      "url": "/#",
+      "typeDestinySectionLevel01": "abrir-listagem",
+      "UriSectionLevel01": "",
+      "imageBannerDesktop": "/arquivos/image-empty-280x360.png",
+      "imageBannerMobile": "/arquivos/image-empty-337x190.png",
+      "linkBanner": "/#",
+      "typeDestinyBannerLevel01": "abrir-listagem",
+      "UriBannerLevel01": "",
+      "iconAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/550c9df5-7652-419b-ba17-2f91cc856b56___bff7ee775d2388c0919c367fd8ed021c.png",
+      "categories": [
+        {
+          "title": "Equipamentos",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Mais Vendidos",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/bdd30485-1a2f-4374-8ea3-b0f06ce57fe4___8149bb7ed604f50ef7c7563808c0db2f.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Aparelhos de musculação",
+              "url": "/pesquisa/?q=Aparelhos de musculação",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371770/"
+            },
+            {
+              "title": "Barracas, gazebos e Abrigos",
+              "url": "/pesquisa/?q=Barracas, gazebos e Abrigos",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "c=72371527/72371727/"
+            },
+            {
+              "title": "Bicicletas ",
+              "url": "/pesquisa/?q=Bicicletas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371737/"
+            },
+            {
+              "title": "Bikes, esteiras e Elípticos",
+              "url": "/pesquisa/?q=Bikes, esteiras e Elípticos",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371741/"
+            },
+            {
+              "title": "Bolas",
+              "url": "/pesquisa/?q=Bolas",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371747/"
+            },
+            {
+              "title": "Caiaques",
+              "url": "/pesquisa/?q=Caiaques ",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371764/"
+            },
+            {
+              "title": "Elásticos, Minibands e Acessórios",
+              "url": "/pesquisa/?q=Elásticos, Minibands e Acessórios",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/[catg]/"
+            },
+            {
+              "title": "Mesas de ping pong",
+              "url": "/pesquisa/?q=Mesas de ping pong",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371728/"
+            },
+            {
+              "title": "Mochilas e Bagagens",
+              "url": "/pesquisa/?q=Mochilas e Bagagens",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371677/"
+            },
+            {
+              "title": "Patins",
+              "url": "/pesquisa/?q=Patins, Patinetes e Skates",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371749/"
+            },
+            {
+              "title": "Pranchas de surf",
+              "url": "/pesquisa/?q=Pranchas de surf",
+              "typeDestinyListing": "destino-final-plp-category-vtex-via-bff",
+              "UriListing": "c=72371527/72371744/"
+            }
+          ]
+        }
+      ],
+      "includeModule": true
+    },
+    {
+      "title": "Marcas",
+      "url": "/#",
+      "typeDestinySectionLevel01": "abrir-listagem",
+      "UriSectionLevel01": "",
+      "imageBannerDesktop": "/arquivos/image-empty-280x360.png",
+      "imageBannerMobile": "/arquivos/image-empty-337x190.png",
+      "linkBanner": "/#",
+      "typeDestinyBannerLevel01": "abrir-listagem",
+      "UriBannerLevel01": "",
+      "iconAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/1266699c-0d04-4d1d-9a51-a7898e92cee9___204cbb13e6dcdaa236b8fe36c7d1605b.png",
+      "categories": [
+        {
+          "title": "Marcas Decathlon",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "",
+          "picto": "Mais Vendidos",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/8fcb54ca-0056-4a45-b1ef-22466c69ef19___d61c2ebf14bdc8330700c2563ef4cd12.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Kalenji",
+              "url": "/marcas/kalenji",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:kalenji&sort=relevance"
+            },
+            {
+              "title": "Forclaz",
+              "url": "/marcas/forclaz",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:forclaz&sort=relevance"
+            },
+            {
+              "title": "Domyos",
+              "url": "/marcas/domyos",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:domyos&sort=relevance"
+            },
+            {
+              "title": "Olaian",
+              "url": "/marcas/olaian",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:olaian&sort=relevance"
+            },
+            {
+              "title": "Sandever",
+              "url": "/marcas/sandever",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:sandever&sort=relevance"
+            },
+            {
+              "title": "Kipsta",
+              "url": "/marcas/kipsta",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:kipsta&sort=relevance"
+            },
+            {
+              "title": "Tarmak",
+              "url": "/marcas/tarmak",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:tarmak&sort=relevance"
+            },
+            {
+              "title": "Nabaiji",
+              "url": "/marcas/nabaiji",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:nabaiji&sort=relevance"
+            },
+            {
+              "title": "Rockrider",
+              "url": "/marcas/rockrider",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:rockrider&sort=relevance"
+            },
+            {
+              "title": "Vanrysel",
+              "url": "/marcas/vanrysel",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:van-rysel&sort=relevance"
+            }
+          ]
+        },
+        {
+          "title": "Marcas Parceiras",
+          "url": "/#",
+          "typeDestinySectionLevel02": "abrir-listagem",
+          "UriSectionLevel02": "c={id_dept}/{id_catg}/{id_scatg}/&filter=d:genero:{value}",
+          "picto": "Apoio",
+          "pictoAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/0acf93b9-efaf-4877-b772-7ebe262e15fe___356faf0369b96c41bf072660d5d0ad1e.png",
+          "typeThirtLevel": "3.5 Listagem simples",
+          "subcategories": [
+            {
+              "title": "Integralmédica",
+              "url": "/pesquisa?q=Integralm%C3%A9dica&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:integralmedica&sort=relevance"
+            },
+            {
+              "title": "Black Skull",
+              "url": "/pesquisa?q=Black+Skull&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:blackskull&sort=relevance"
+            },
+            {
+              "title": "Mormaii",
+              "url": "/pesquisa?q=Mormaii&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:mormaii&sort=relevance"
+            },
+            {
+              "title": "Dux Nutrition",
+              "url": "/pesquisa?q=Dux+Nutrition&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:duxnutrition&sort=relevance"
+            },
+            {
+              "title": "Umbro",
+              "url": "/pesquisa?q=Umbro&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:umbro&sort=relevance"
+            },
+            {
+              "title": "Atrio",
+              "url": "/pesquisa?q=Atrio&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:atrio&sort=relevance"
+            },
+            {
+              "title": "Kikos",
+              "url": "/pesquisa?q=Kikos&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:kikos&sort=relevance"
+            },
+            {
+              "title": "Gallant",
+              "url": "/pesquisa?q=Gallant&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:gallant&sort=relevance"
+            },
+            {
+              "title": "Caloi",
+              "url": "/pesquisa?q=Caloi&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:caloi&sort=relevance"
+            },
+            {
+              "title": "Sense",
+              "url": "/pesquisa?q=Sense&sort=score_desc&page=0",
+              "typeDestinyListing": "destino-final-plp-search-filter-vtex-via-bff",
+              "UriListing": "filter=d:brand:sense&sort=relevance"
+            }
+          ]
+        }
+      ],
+      "includeModule": true
+    },
+    {
+      "title": "Liquidação",
+      "url": "/pesquisa/?q=liquidacao",
+      "typeDestinySectionLevel01": "abrir-listagem",
+      "UriSectionLevel01": "",
+      "imageBannerDesktop": "/arquivos/image-empty-280x360.png",
+      "imageBannerMobile": "/arquivos/image-empty-337x190.png",
+      "linkBanner": "/#",
+      "typeDestinyBannerLevel01": "abrir-listagem",
+      "UriBannerLevel01": "",
+      "iconAPP": "https://decathlonstore.vtexassets.com/assets/vtex.file-manager-graphql/images/1a0ecbd4-346f-4eb0-ab04-6d59ac089779___1db412457c081cea5ef575d51731df2b.png"
+    }
+  ]
+}

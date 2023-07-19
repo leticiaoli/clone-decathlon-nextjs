@@ -1,0 +1,41 @@
+.containerListShelf{
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 32px 4px;
+    max-width: 1344px;
+}
+
+.titleProductShelf{
+    font-size: 30px;
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-left: 1rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: .01em;
+    line-height: 56px;
+    letter-spacing: .01em;
+    line-height: inherit;
+}
+
+.slideArrowPrev::before{
+    display: none;
+}
+
+.slideArrowNext::before{
+    display: none;
+}
+
+.arrowPrevSports, .arrowNextSports{
+    width: 35px;
+    height: 35px;
+    background-color: #f7f7f7;
+    border-radius: 50%;
+    size: 14px;
+}
+
+
+.slikSlideListShelf{
+    padding: 0 8px;
+}

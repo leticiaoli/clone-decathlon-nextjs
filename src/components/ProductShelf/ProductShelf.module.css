@@ -1,0 +1,90 @@
+.contentProductShelf {
+  height: 455px;
+  padding: 0 8px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.flagProductShelf {
+  border-radius: 0.25rem;
+  background: #fec9cb;
+  max-width: max-content;
+  min-height: 21px;
+  padding: 0.1rem 0.5rem;
+  line-height: 1rem;
+  margin: 0.5rem 0;
+}
+
+.textFlagPs {
+  font-size: 0.75rem;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 1rem;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: #e32831;
+}
+
+.nameProductsShelf {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #001018;
+  line-height: 1rem;
+}
+
+.descriptionProductsShelf {
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+  color: #717d88;
+}
+
+.priceProductsShelf {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.price1 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-right: 5px;
+  color: #000;
+}
+
+.price2 {
+  font-size: 12px;
+  margin-right: 5px;
+  color: #687787;
+  text-decoration: line-through;
+}
+
+.price3 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #e74850;
+}
+
+.mainImgProductShelf{
+  position: relative;
+}
+
+.btnFavorite{
+ position: absolute;
+ top: -4px;
+ left: -5px;
+ color: #687787;
+}
+
+@media (min-width: 600px) {
+  .contentProductShelf {
+    padding: 16px;
+    border: 1px solid #cfd2d5;
+    margin:  0 10px;
+  }
+}

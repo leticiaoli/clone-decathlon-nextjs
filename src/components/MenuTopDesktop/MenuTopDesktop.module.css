@@ -1,0 +1,29 @@
+.boxMenuTopDesktop{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 16px 32px 0;
+    background-color: #0082c3;
+}
+
+.itemMenuTop{
+    font-size: 12px;
+    color: #ffff;
+    margin-right: 24px;
+    font-weight: 400;
+    line-height: 1rem;
+    padding: 8px 0;
+}
+
+.itemMenuTopApp{
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #ffff;
+    font-weight: 700;
+}
+
+@media (min-width: 1400px) {
+    .boxMenuTopDesktop{
+        padding: 16px 94px 0;
+    }
+}

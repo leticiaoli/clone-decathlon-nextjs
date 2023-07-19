@@ -1,0 +1,67 @@
+.contentBtnCoutries {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #aeb1b4;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-weight: 500;
+  background-color: initial;
+  background-image: none;
+  border: 1px solid #aeb1b4;
+  margin-top: 40px;
+}
+
+.iconArrowDown {
+  margin-left: 5px;
+}
+
+.boxBtnCountries {
+  position: relative;
+  background-color: #1d1c1c;
+}
+
+.listCoutries {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  max-width: 330px;
+  max-height: 230px;
+  overflow-y: scroll;
+  top: -200px;
+  background-color: #1d1c1c;
+}
+
+.itemListCoutries {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 8px 16px;
+  color: #aeb1b4;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1024px) {
+  .listCoutries::-webkit-scrollbar {
+    width: 8px;
+    height: 5px;
+  }
+
+  .listCoutries::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .listCoutries::-webkit-scrollbar-thumb {
+    background-color: #007cb9;
+    border-radius: 30%;
+  }
+}

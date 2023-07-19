@@ -1,0 +1,18 @@
+.wrapperIconMenu{
+  
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconMenu {
+    color: white;
+    align-items: center;
+}
+
+@media (min-width: 1023px) {
+    .wrapperIconMenu{
+        padding: 0;
+    }
+}

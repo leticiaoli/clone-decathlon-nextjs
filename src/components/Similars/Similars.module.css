@@ -1,0 +1,40 @@
+.listProductShelf {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.itemsListProductShelf {
+  margin: 0 4px;
+  border: solid 1px #e0e2e4;
+}
+
+.btnProductShelf {
+  width: 24.6px;
+  height: 24.6px;
+  border-bottom: 0px;
+  background-color: #ffff;
+  border: 1px solid #d2d2d2;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemNumberProductShelf {
+  width: 24.6px;
+  height: 24.6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px #e0e2e4;
+}
+
+.btnNumberProductShelf {
+  font-size: 12px;
+  border-bottom: 0px;
+  background-color: #ffff;
+}

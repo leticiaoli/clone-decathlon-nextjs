@@ -1,0 +1,123 @@
+.containerFooter {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  flex-direction: column;
+  background: #1d1c1c;
+  padding: 40px 36px;
+}
+
+.titleBoxListFooter {
+  color: #ffea28;
+  text-transform: uppercase;
+  font-style: italic;
+  margin-top: 1.25rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.listFooter {
+  list-style: none;
+  padding: 0;
+}
+
+.itemListFooter {
+  color: #ffff;
+  line-height: 1.6;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.boxListFooter {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 300px;
+  height: auto;
+}
+
+.itemStampsListFooter {
+  color: #bab7b7;
+  font-weight: 500;
+}
+
+.boxListFooterPayment {
+  display: block;
+}
+
+.imgPayFooter {
+  margin: 5px;
+}
+
+.imgSslFooter {
+  margin: 4px;
+}
+
+.imgEbitFooter {
+  margin: 8px;
+}
+
+.imgKondutotFooter{
+    margin: 8px 4px;
+}
+
+.borderSeparateFooter{
+    width: 100%;
+    height: auto;
+    border: 1px solid #ffff;
+}
+
+.boxTextEndFooter{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+.textEndFooter{
+    line-height: 1.5rem;
+    font-size: .75rem;
+    color: #aeb1b4;
+    font-weight: 500;
+}
+
+@media (min-width: 1024px) {
+  .boxListFooter {
+    width: 300px;
+    height: 330px;
+  }
+
+  .boxListFooterDown{
+    width: 300px;
+    height: 200px;
+  }
+
+  .columnOneFooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .columnTwoFooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .boxTextEndFooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.textEndFooter{
+  width: 72%;
+}
+}
