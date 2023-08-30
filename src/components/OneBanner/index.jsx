@@ -21,7 +21,7 @@ export default function OneBanner() {
       {mockImages?.map(({ image, width, height, alt, link }) => (
         <a href={link}>
           <Image
-            src={`/../public/${image}`}
+            src={`/${image}`}
             width={width}
             height={height}
             alt={alt}

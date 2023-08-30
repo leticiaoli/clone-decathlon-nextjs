@@ -84,7 +84,7 @@ export default function BannerSlide() {
           {mockImages?.map(({ image, width, height, alt, link }) => (
             <a className={styles.imgBannerSlide} href={link}>
               <Image
-                src={`/../public/${image}`}
+                src={`/${image}`}
                 width={width}
                 height={height}
                 alt={alt}

@@ -24,7 +24,7 @@ export default function ServicesBanner() {
             <a href={link}>
               <Image
                 className={styles.imageZoomServicesBanner}
-                src={`/../public/${image}`}
+                src={`/${image}`}
                 width={width}
                 height={height}
                 alt={alt}

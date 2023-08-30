@@ -21,7 +21,7 @@ export default function BannerAccessories() {
         {mockImages?.map(({ image, width, height, alt, link }, i) => (
           <a className={`${styles.imgBannerSlide} imgBannerSlide${i}`} href={link}>
             <Image
-              src={`/../public/${image}`}
+              src={`/${image}`}
               width={width}
               height={height}
               alt={alt}

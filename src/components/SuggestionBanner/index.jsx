@@ -23,7 +23,7 @@ export default function SuggestionBanner() {
           <a href={link}>
             <Image
               className={styles.imageZoomSuggestionBanner}
-              src={`/../public/${image}`}
+              src={`/${image}`}
               width={width}
               height={height}
               alt={alt}
