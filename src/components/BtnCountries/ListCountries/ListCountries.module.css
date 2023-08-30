@@ -1,0 +1,45 @@
+.listCoutries {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    max-width: 330px;
+    max-height: 230px;
+    overflow-y: scroll;
+    top: -200px;
+    background-color: #1d1c1c;
+  }
+
+.itemListCoutries {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 8px 16px;
+    color: #aeb1b4;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    box-sizing: border-box;
+  }
+
+  .itemListCoutries:hover{
+    background-color: #b3bac3;
+    color:#1d1c1c ;
+  }
+  
+  @media (min-width: 1024px) {
+    .listCoutries::-webkit-scrollbar {
+      width: 8px;
+      height: 5px;
+    }
+  
+    .listCoutries::-webkit-scrollbar-track {
+      background-color: #1d1c1c;
+    }
+  
+    .listCoutries::-webkit-scrollbar-thumb {
+      background-color: #007cb9;
+      border-radius: 30%;
+    }
+  }

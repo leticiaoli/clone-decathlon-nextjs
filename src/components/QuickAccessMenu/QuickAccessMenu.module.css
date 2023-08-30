@@ -1,0 +1,67 @@
+.boxQuickAccessMenu{
+    width: 100%;
+    height: auto;
+    display: none;
+    padding:  0 8px;
+    background: #f7f8f9;
+}
+
+.listIconsQuickAcess{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 16px;
+    border-bottom: 1px solid rgba(104,119,135,0.1);
+}
+
+.itemListQuickAcess{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.textListQuickAcess{
+    font-weight: 700;
+    font-size: .75rem;
+    line-height: 1rem;
+    margin-left: 5px;
+    color: #344450;
+}
+
+.iconQuickAccess{
+    color: #344450;
+}
+
+.boxQuickMenu{
+    width: 100%;
+    height: auto;
+    padding: 16px 10px 32px;
+}
+
+.titleQuickMenu{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .75rem;
+    line-height: 1rem;
+    color: #4e5d6b;
+    margin-bottom: 16px;
+}
+
+.listQuickMenu{
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+    column-gap: 2.5rem;
+    height: 6rem;
+    flex-wrap: wrap;
+    margin-right: auto;
+    list-style: none;
+    padding: 0;
+}
+
+.itemListQuickMenu{
+    font-weight: 500;
+    font-size: .75rem;
+    line-height: 1rem;
+    color: #687581;
+}

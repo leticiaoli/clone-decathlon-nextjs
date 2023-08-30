@@ -1,24 +1,56 @@
-import styles from "./MenuDesktop.module.css";
-
-import { SportsBasketball } from "@styled-icons/material-outlined";
+import React, { useState } from 'react'
+import styles from "./MenuDesktop.module.css"
+import { SportsBasketball } from "@styled-icons/material-outlined"
+import menuDesktopMock from "../../mock/menuDesktopMock.json"
+import Categories from "../MenuDesktop/Categories"
 
 export default function MenuDesktop() {
-    return (
-        <nav className={styles.boxMenuDesktop}>
-            <ul className={styles.listMenuDesktop}>
-                <li>
-                    <a href="/" className={styles.itemListMenuDesk1}> 
-                        <SportsBasketball size="16" title="Icone Busca" className={styles.iconBasketball}/>Navegue por Esportes
-                    </a>
-                </li>
-                <li><a href="/" className={styles.itemListMenuDesk}>Feminino</a></li>
-                <li><a href="/" className={styles.itemListMenuDesk}>Masculino</a></li>
-                <li><a href="/" className={styles.itemListMenuDesk}>Infantil</a></li>
-                <li><a href="/" className={styles.itemListMenuDesk}>Acessórios</a></li>
-                <li><a href="/" className={styles.itemListMenuDesk}>Esquiopamentos</a></li>
-                <li><a href="/" className={styles.itemListMenuDesk}>Marcas</a></li>
-                <li><a href="/" className={styles.itemListMenuDesk}>Liquidação</a></li>
-            </ul>
-        </nav>
-    );
-  }
+
+  const [currentIndex, setCurrentIndex] = useState(false);
+
+  return (
+    <nav className={styles.boxMenuDesktop}>
+      <ul className={styles.listMenuDesktop}>
+        {menuDesktopMock?.departments?.map((departament, i) => {
+          const name = departament?.title;
+          const hasCategories = departament?.categories?.length > 0;
+
+          if (i === 0) {
+            return (
+              <li
+                key={i}
+                className={styles.boxItemListMenuDesk}
+                onMouseEnter={() => setCurrentIndex(i)}
+                onMouseLeave={() => setCurrentIndex(false)}
+              >
+                <a href={departament?.url} className={styles.itemListMenuDesk1}>
+                  <SportsBasketball
+                    size="16"
+                    title="Icon Basketball"
+                    className={styles.iconBasketball}
+                  />
+                  {name}
+                </a>
+                {(hasCategories && currentIndex === i) && <Categories categories={departament?.categories} />}
+              </li>
+            );
+          } else {
+            return (
+              <li
+                key={i}
+                className={styles.boxItemListMenuDesk}
+                onMouseEnter={() => setCurrentIndex(i)}
+                onMouseLeave={() => setCurrentIndex(false)}
+              >
+                <a href={departament?.url} className={styles.itemListMenuDesk}>
+                  {name}
+                </a>
+                {(hasCategories && currentIndex === i) && <Categories categories={departament?.categories} />}
+              </li>
+            );
+          }
+        })}
+      </ul>
+    </nav>
+  );
+}

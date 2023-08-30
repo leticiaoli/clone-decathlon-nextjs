@@ -24,8 +24,8 @@
 }
 
 .arrowPrevBannerSlide, .arrowNextBannerSlide{
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     background-color: #f7f7f7;
     border-radius: 50%;
 }
@@ -35,4 +35,35 @@
     justify-content: center;
     align-items: center;
     flex-wrap: nowrap;
+}
+
+.textBannerSlide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    max-width: 1344px;
+    margin: auto;
+    margin-top: 0.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    box-sizing: border-box;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+    color: #a8a8b0;
+    text-align: center;
+}
+
+.slikBannerSlideMobile img{
+    width: 100%;
+    height: auto;
+    padding: 0 24px;
+}
+
+.slikBannerSlideDesktop img{
+    width: 100%;
+    height: auto;
+    padding: 0 24px;
 }

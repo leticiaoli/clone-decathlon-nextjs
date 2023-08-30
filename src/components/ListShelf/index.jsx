@@ -1,14 +1,12 @@
-import ProductShelf from "../ProductShelf";
+import ProductShelf from "../ProductShelf"
+import styles from "./ListShelf.module.css"
+import { ArrowIosBackOutline } from "@styled-icons/evaicons-outline"
+import { ArrowIosForwardOutline } from "@styled-icons/evaicons-outline"
 
-import styles from "./ListShelf.module.css";
+import Slider from "react-slick"
+import "slick-carousel/slick/slick.css"
+import "slick-carousel/slick/slick-theme.css"
 
-import Slider from "react-slick";
-
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
-
-import { ArrowIosBackOutline } from "@styled-icons/evaicons-outline";
-import { ArrowIosForwardOutline } from "@styled-icons/evaicons-outline";
 
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
@@ -52,9 +50,8 @@ function SamplePrevArrow(props) {
   );
 }
 
-export default function ListShelf({ products }) {
+export default function ListShelf({ products, title }) {
   const productList = products?.data?.recommendations?.[0]?.productsDataList;
-  const title = products?.data?.recommendations?.[0]?.title;
 
   const settings = {
     dots: false,
@@ -93,7 +90,6 @@ export default function ListShelf({ products }) {
         },
       },
     ],
-
   };
 
   return (

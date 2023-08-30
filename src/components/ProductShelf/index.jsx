@@ -1,8 +1,6 @@
-import styles from "./ProductShelf.module.css";
-
-import Similars from "../Similars";
-
-import { Heart } from "@styled-icons/octicons";
+import styles from "./ProductShelf.module.css"
+import Similars from "../Similars"
+import { Heart } from "@styled-icons/boxicons-regular"
 
 export default function ProductShelf({ product }) {
   const price = product?.offers?.lowPrice;
@@ -14,21 +12,22 @@ export default function ProductShelf({ product }) {
       <a href="/" className={styles.mainImgProductShelf}>
         <img
           src={product?.image?.[0]?.url}
-          width={163}
-          height={170}
+          width={170}
+          height={180}
           alt="Picture of the author"
         />
         <span className={styles.btnFavorite}>
-          <Heart size="16" title="Icone Busca" className={styles.iconBasketball}/>
+          <Heart
+            size="20"
+            title="Icone coração"
+            className={styles.iconBtnFavorite}
+          />
         </span>
       </a>
       <div>
         <Similars product={product} />
       </div>
       <div>
-        <div className={styles.flagProductShelf}>
-          <p className={styles.textFlagPs}>Liquidação</p>
-        </div>
         <div className={styles.nameProductsShelf}>
           <p>{product?.brand?.name}</p>
         </div>

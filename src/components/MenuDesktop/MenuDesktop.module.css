@@ -1,41 +1,61 @@
 @media (max-width: 1023px) {
-    .boxMenuDesktop{
-        display: none;
-    }
+  .boxMenuDesktop {
+    display: none;
+  }
 }
 
 @media (min-width: 1024px) {
-    .listMenuDesktop {
-        width: 100%;
-        height: 48px;
-        list-style: none;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 0 95px 0 95px;
-        box-sizing: border-box;
-        border-bottom: solid 1px #d9dde1;
-    }
+  .listMenuDesktop {
+    width: 100%;
+    height: 48px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 95px 0 95px;
+    box-sizing: border-box;
+    border-bottom: solid 1px #d9dde1;
+  }
 
-    .itemListMenuDesk1{
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 0 24px 0 6px;
-        box-sizing: border-box;
-        font-size: 16px;
-        font-weight: 700;
-        line-height: .0625rem;
-        color: #1a2a34;
-    }
+  .itemListMenuDesk1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px 0 6px;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 0.0625rem;
+    color: #1a2a34;
+  }
 
-    .iconBasketball{
-        margin-right: 5px;
-    }
+  .boxItemListMenuDesk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+  }
 
-    .itemListMenuDesk{
-        padding: 0 24px;
-        box-sizing: border-box;
-        font-size: 14px;
-    }
+  .iconBasketball {
+    margin-right: 5px;
+  }
+
+  .itemListMenuDesk {
+    padding: 0 24px;
+    box-sizing: border-box;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  .boxMenuDesktop{
+    position: relative;
+  }
+
+  .boxItemListMenuDesk:hover {
+    border-bottom: 2px solid #0082c3;
+  }
+  .itemListMenuDesk1:hover {
+    
+    color: #0082c3;
+  }
 }

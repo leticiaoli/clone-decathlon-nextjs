@@ -1,0 +1,68 @@
+.boxSlideMarks {
+  display: block;
+  max-width: 1344px;
+  margin: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  box-sizing: border-box;
+}
+
+.titleSlideMarks {
+  text-align: center;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 2.5rem;
+  margin-bottom: 26px;
+  color: #4e5d6b;
+}
+
+.listSlideMarks {
+  list-style: none;
+  padding: 0;
+}
+
+.slideArrowPrev::before {
+  display: none;
+}
+
+.slideArrowNext::before {
+  display: none;
+}
+
+.arrowPrevSports,
+.arrowNextSports {
+  width: 35px;
+  height: 35px;
+  background-color: #f7f7f7;
+  border-radius: 50%;
+  size: 14px;
+}
+
+.imgSlideMarks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 40px;
+}
+
+@media (min-width: 1024px) {
+  .imgSlideMarks {
+    margin: 0 70px;
+  }
+}
+
+.slikBannerSlideMobile img{
+  width: 100%;
+  height: auto;
+  padding: 0 24px;
+}
+
+.slikBannerSlideDesktop img{
+  width: 100%;
+  height: auto;
+  padding: 0 24px;
+}

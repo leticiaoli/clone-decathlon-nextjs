@@ -3,7 +3,7 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding: 0;
+  padding: 10px 0;
   box-sizing: border-box;
 }
 
@@ -13,8 +13,8 @@
 }
 
 .btnProductShelf {
-  width: 24.6px;
-  height: 24.6px;
+  width: 42px;
+  height: 42.8px;
   border-bottom: 0px;
   background-color: #ffff;
   border: 1px solid #d2d2d2;
@@ -25,8 +25,8 @@
 }
 
 .itemNumberProductShelf {
-  width: 24.6px;
-  height: 24.6px;
+  width: 42px;
+  height: 42.8px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,3 +38,4 @@
   border-bottom: 0px;
   background-color: #ffff;
 }
+

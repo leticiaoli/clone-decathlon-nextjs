@@ -1,5 +1,5 @@
 .contentProductShelf {
-  height: 455px;
+  height: 440px;
   padding: 0 8px;
   display: flex;
   justify-content: flex-start;
@@ -70,21 +70,22 @@
   color: #e74850;
 }
 
-.mainImgProductShelf{
-  position: relative;
-}
-
-.btnFavorite{
- position: absolute;
- top: -4px;
- left: -5px;
- color: #687787;
-}
-
 @media (min-width: 600px) {
   .contentProductShelf {
     padding: 16px;
     border: 1px solid #cfd2d5;
     margin:  0 10px;
   }
+
+  .contentProductShelf{
+    position: relative;
+  }
+
+  .btnFavorite{
+    position: absolute;
+    top: 4px;
+    right: 18px;
+    color: #687787;
+    z-index: 9999;
+   }
 }

@@ -1,0 +1,55 @@
+.boxSuggestionBanner {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 24px 8px 0;
+  max-width: 1344px;
+  margin: auto;
+}
+
+.titleSuggestionBanner {
+  text-align: center;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 2.5rem;
+  margin-bottom: 26px;
+  color: #4e5d6b;
+  letter-spacing: 0.01em;
+}
+
+.boxSuggestionsBannerMobile img {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px 0.5rem;
+}
+
+.boxSuggestionsBannerDesktop {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.boxSuggestionsBannerDesktop img {
+  width: 100%;
+  height: 500px;
+  padding: 10px 0.5rem;
+  max-width: 1344px;
+}
+
+.imageZoomSuggestionBanner{
+  transition: transform 0.3s;
+}
+
+.imageZoomSuggestionBanner:hover{
+  transform: scale(1.05);
+}

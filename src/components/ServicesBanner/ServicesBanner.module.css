@@ -1,0 +1,77 @@
+.boxServicesBanner{
+    max-width: 1344px;
+    margin: auto;
+}
+
+.listServicesBanner{
+    width: 100%;
+    height: auto;
+    list-style: none;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.imgServicesBanner{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.titleServicesBanner{
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 2.5rem;
+    margin-bottom: 26px;
+    color: #4e5d74;
+}
+
+.itemServicesBannerMobile, .itemServicesBannerDesktop{
+    width: 100%;
+    height: auto;
+    max-width: 1344px;
+    margin: auto;
+}
+
+.itemServicesBannerMobile img{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+
+}
+
+.itemServicesBannerDesktop{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.itemServicesBannerDesktop img{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.imageZoomServicesBanner{
+    transition: transform 0.3s;
+}
+
+.imageZoomServicesBanner:hover{
+    transform: scale(1.05);
+}
+    

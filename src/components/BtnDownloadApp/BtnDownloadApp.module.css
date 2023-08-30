@@ -1,0 +1,44 @@
+.boxBtnDownloadApp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.titleBtnDownloadApp{
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    letter-spacing: .01em;
+    color: #393939;
+}
+
+.itemBtnDownloadApp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 14px;
+    padding-left: 20px;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    max-width: 133px;
+    height: 30px;
+    background: #007cb9;
+}
+
+.textBtnDownloadApp{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .75rem;
+    line-height: 1rem;
+    color: #ffff;
+    margin-right: 16px;
+}
+
+.iconArrownBtnDownloadApp{
+    color: #ffff;
+}
