@@ -1,5 +1,4 @@
 import styles from "./ShelfSports.module.css"
-import Image from "next/image"
 import { ArrowIosBackOutline } from "@styled-icons/evaicons-outline"
 import { ArrowIosForwardOutline } from "@styled-icons/evaicons-outline"
 
@@ -93,7 +92,7 @@ export default function ShelfSports() {
       <Slider className={styles.slikSlideSports} {...settings}>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss1.png"
               width={80}
@@ -105,7 +104,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss2.png"
               width={80}
@@ -117,7 +116,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss3.png"
               width={80}
@@ -129,7 +128,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss4.png"
               width={80}
@@ -141,7 +140,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss5.png"
               width={80}
@@ -153,7 +152,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss6.png"
               width={80}
@@ -165,7 +164,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss7.png"
               width={80}
@@ -177,7 +176,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss8.png"
               width={80}
@@ -189,7 +188,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss9.png"
               width={80}
@@ -201,7 +200,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss10.png"
               width={80}
@@ -213,7 +212,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss11.png"
               width={80}
@@ -225,7 +224,7 @@ export default function ShelfSports() {
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-            <Image
+            <img
               className={styles.imageZoomShelfSports}
               src="/../public/ss12.png"
               width={80}
