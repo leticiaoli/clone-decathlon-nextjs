@@ -94,7 +94,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss1.png"
+              src="/ss1.png"
               width={80}
               height={80}
               alt="sale off"
@@ -106,7 +106,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss2.png"
+              src="/ss2.png"
               width={80}
               height={80}
               alt="Product camping bar"
@@ -118,7 +118,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss3.png"
+              src="/ss3.png"
               width={80}
               height={80}
               alt="Products run and walk"
@@ -130,7 +130,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss4.png"
+              src="/ss4.png"
               width={80}
               height={80}
               alt="Products academy"
@@ -142,7 +142,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss5.png"
+              src="/ss5.png"
               width={80}
               height={80}
               alt="Products cycling"
@@ -154,7 +154,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss6.png"
+              src="/ss6.png"
               width={80}
               height={80}
               alt="Products swimming"
@@ -166,7 +166,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss7.png"
+              src="/ss7.png"
               width={80}
               height={80}
               alt="Products soccer, volleyball and basketball"
@@ -178,7 +178,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss8.png"
+              src="/ss8.png"
               width={80}
               height={80}
               alt="Products beach tennis"
@@ -190,7 +190,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss9.png"
+              src="/ss9.png"
               width={80}
               height={80}
               alt="Products surf and beachwear"
@@ -202,7 +202,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss10.png"
+              src="/ss10.png"
               width={80}
               height={80}
               alt="Products boxing and soft arts"
@@ -214,7 +214,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss11.png"
+              src="/ss11.png"
               width={80}
               height={80}
               alt="Products racket sports"
@@ -226,7 +226,7 @@ export default function ShelfSports() {
           <a href="/" className={styles.contentSposts}>
             <img
               className={styles.imageZoomShelfSports}
-              src="/../public/ss12.png"
+              src="/ss12.png"
               width={80}
               height={80}
               alt="Products pilates"
