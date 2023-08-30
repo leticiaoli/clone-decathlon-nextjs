@@ -1,4 +1,4 @@
-import styles from "./Similars.module.css";
+import styles from "./Similars.module.css"
 
 export default function Similars({ product }) {
   const similars = product?.customData?.items;
@@ -23,8 +23,8 @@ export default function Similars({ product }) {
                 <button className={styles.btnProductShelf}>
                   <img
                     src={image}
-                    width={24.6}
-                    height={24.6}
+                    width={42}
+                    height={42}
                     alt={name}
                     title={color}
                   />

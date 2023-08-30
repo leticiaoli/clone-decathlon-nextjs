@@ -1,0 +1,146 @@
+{
+  "mobile": [
+    {
+      "image": "slideM1.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM2.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM3.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM4.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM5.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM6.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM7.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM8.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM9.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideM10.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    }
+  ],
+  "desktop": [
+    {
+      "image": "slideD1.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD2.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD3.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD4.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD5.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD6.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD7.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD8.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD9.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "slideD10.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    }
+  ]
+}

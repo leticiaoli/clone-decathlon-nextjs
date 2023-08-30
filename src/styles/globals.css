@@ -29,4 +29,18 @@ p {
   .containerFull{
     padding: 0 12px;
   }
+
+  ::-webkit-scrollbar-track{
+    background-color: #ffff;
+  }
+
+  ::-webkit-scrollbar{
+    width: 8px;
+    background-color: #f4f4f4;
+  }
+
+  ::-webkit-scrollbar-thumb{
+    background: #0082c3 ;
+    border-radius: 15px;
+  }
 }

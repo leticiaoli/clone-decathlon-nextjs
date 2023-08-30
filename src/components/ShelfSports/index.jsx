@@ -1,14 +1,11 @@
-import styles from "./ShelfSports.module.css";
+import styles from "./ShelfSports.module.css"
+import Image from "next/image"
+import { ArrowIosBackOutline } from "@styled-icons/evaicons-outline"
+import { ArrowIosForwardOutline } from "@styled-icons/evaicons-outline"
 
-import Image from "next/image";
-
-import Slider from "react-slick";
-
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
-
-import { ArrowIosBackOutline } from "@styled-icons/evaicons-outline";
-import { ArrowIosForwardOutline } from "@styled-icons/evaicons-outline";
+import Slider from "react-slick"
+import "slick-carousel/slick/slick.css"
+import "slick-carousel/slick/slick-theme.css"
 
 function SampleNextArrow(props) {
   const { className, style, onClick } = props;
@@ -97,131 +94,143 @@ export default function ShelfSports() {
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
             <Image
-              src="/../public/ss1.png"
+              className={styles.imageZoomShelfSports}
+              src="/ss1.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="sale off"
             />
             <p className={styles.textSports}>Liquidação</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss2.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss2.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Product camping bar"
             />
             <p className={styles.textSports}>Camping, Trilha e Neve</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss3.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss3.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products run and walk"
             />
             <p className={styles.textSports}>Corrida e caminhada</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss4.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss4.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products academy"
             />
             <p className={styles.textSports}>Academia e Fitness</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss5.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss5.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products cycling"
             />
             <p className={styles.textSports}>Ciclismo</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss6.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss6.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products swimming"
             />
             <p className={styles.textSports}>Natação</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss7.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss7.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products soccer, volleyball and basketball"
             />
             <p className={styles.textSports}>Futebol, Volei e basquete</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss8.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss8.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products beach tennis"
             />
             <p className={styles.textSports}>Beach tenis</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss9.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss9.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products surf and beachwear"
             />
             <p className={styles.textSports}>Surf e moda praia</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss10.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss10.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products boxing and soft arts"
             />
             <p className={styles.textSports}>Box e artes marciais</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss11.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss11.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products racket sports"
             />
             <p className={styles.textSports}>Esport de raquetes</p>
           </a>
         </div>
         <div className={styles.wrapContentSports}>
           <a href="/" className={styles.contentSposts}>
-          <Image
-              src="/../public/ss12.png"
+            <Image
+              className={styles.imageZoomShelfSports}
+              src="/ss12.png"
               width={80}
               height={80}
-              alt="Picture of the author"
+              alt="Products pilates"
             />
             <p className={styles.textSports}>Pilates</p>
           </a>

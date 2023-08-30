@@ -1,0 +1,62 @@
+{
+  "mobile": [
+    {
+      "image": "bannerAccessories1.png",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "bannerAccessories2.png",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "bannerAccessories3.png",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "bannerAccessories4.png",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    }
+  ],
+  "desktop": [
+    {
+      "image": "bannerAccessoriesD1.png",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "bannerAccessoriesD2.png",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "bannerAccessoriesD3.png",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    },
+    {
+      "image": "bannerAccessoriesD4.png",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    }
+  ]
+}

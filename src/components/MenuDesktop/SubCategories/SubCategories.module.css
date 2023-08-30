@@ -1,0 +1,27 @@
+.listSubCategories{
+    list-style: none;
+    position: absolute;
+    left: 280px;
+    top: 15px;
+    max-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-right: 30px;
+    padding-left: 20px;
+}
+
+.itemListSubCategories{
+    position: relative; 
+    padding: 2px;
+    color: #5d666f;
+    font-size: .875rem;
+    line-height: 1.25rem; 
+}
+
+.titleSubCategories:hover{
+    border-bottom: 1px solid #5d666f;
+}
+

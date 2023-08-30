@@ -1,0 +1,72 @@
+.boxMenuMobile{
+    display: none;
+    width: 100%;
+    height: auto;
+}
+
+.itemAccountMenuMobile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 28px;
+    background-color: #0082c3;
+}
+
+.contentAccountMenu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.iconAccountMenu{
+    margin-right: 10px;
+    color: #ffff;
+}
+
+.iconArrowMenu{
+    width: 100%;
+    height: auto;
+    padding: 0 12px;
+}
+
+.textAccountMenu{
+    font-size: .875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    color: #ffff;
+    padding: 2px 0;
+}
+
+.iconArrowMenu{
+    color: #ffff;
+}
+
+.listMenuMobile{
+    display: block;
+    padding:  0 28px;
+    list-style: none;
+}
+
+.itemListMenuMobile{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 0;
+    border-bottom: 1px solid rgba(104,119,135,0.2);
+}
+
+.iconArrowMenu2{
+    width: 46px;
+    height: auto;
+    padding: 0 12px;
+    color: #687787;
+}
+
+.textListMenuMobile{
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #344450;
+}

@@ -1,0 +1,65 @@
+.boxFullCategories {
+  width: 85%;
+  height: auto;
+  display: block;
+  position: absolute;
+  top: 48px;
+  z-index: 9999;
+  box-shadow: 0px 12px 12px 0px #00537d1a;
+  background-color: #fff;
+  left: 70px;
+  box-sizing: border-box;
+}
+
+.boxCenterCategories {
+  width: 100%;
+  height: auto;
+  max-width: 1024px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.listCategories {
+  width: 36.25%;
+  max-width: 291px;
+  height: 400px;
+  flex-direction: column;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  overflow-y: scroll;
+  list-style: none;
+  background-color: #f3f7fb;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 1.25rem;
+}
+
+.itemListCategories {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  border-bottom: 1px solid rgba(104, 119, 135, 0.2);
+}
+
+.listCategories::-webkit-scrollbar {
+  width: 4px;
+}
+
+.listCategories::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.listCategories::-webkit-scrollbar-thumb {
+  background-color: #dce2e8;
+}
+
+.itemListCategories:hover {
+  color: #0082c3;
+}

@@ -1,47 +1,35 @@
-import styles from "./BannerAccessories.module.css";
-
-import Image from 'next/image';
+import { useState, useEffect } from "react"
+import Image from "next/image"
+import styles from "./BannerAccessories.module.css"
+import bannerAcessoriesMock from "../../mock/bannerAcessoriesMock.json"
 
 export default function BannerAccessories() {
-    return (
-        <section className={styles.ContainerBannerAccessories}>
-            <div className={styles.boxImg1}>
-                <a className={styles.itemImgBox1}>
-                <Image
-                    src="/../public/bannerAccessories1.png"
-                    width={300}
-                    height={500}
-                    alt="Picture of the author"
-                />
-                </a>
-                <a className={styles.itemImgBox1}>
-                <Image
-                    src="/../public/BannerAccessories2.png"
-                    width={300}
-                    height={500}
-                    alt="Picture of the author"
-                />
-                </a>
-            </div>
-            <div className={styles.boxImg2}>
-                <a className={styles.itemImgBox2}>
-                <Image
-                    src="/../public/BannerAccessories3.png"
-                    width={300}
-                    height={500}
-                    alt="Picture of the author"
-                />
-                </a>
-                <a className={styles.itemImgBox2}>
-                <Image
-                    src="/../public/BannerAccessories4.png"
-                    width={300}
-                    height={500}
-                    alt="Picture of the author"
-                />
-                </a>
-            </div>
+  const [screenSize, setScreenSize] = useState(0)
+  const isMobile = screenSize < 769
+  const mockImages = isMobile ? bannerAcessoriesMock?.mobile : bannerAcessoriesMock?.desktop
 
-        </section>
-    );
-  }
+  useEffect(() => {
+    setScreenSize(window?.innerWidth)
+    window.addEventListener('resize', () => {
+      setScreenSize(window?.innerWidth)
+    })
+  }, [])
+
+  return (
+    <section className={styles.ContainerBannerAccessories}>
+      <div className={isMobile ? styles.boxBannerSlideMobile : styles.boxBannerSlideDesktop}>
+        {mockImages?.map(({ image, width, height, alt, link }, i) => (
+          <a className={`${styles.imgBannerSlide} imgBannerSlide${i}`} href={link}>
+            <Image
+              src={`/${image}`}
+              width={width}
+              height={height}
+              alt={alt}
+            />
+          </a>
+        ))}
+      </div>
+    </section>
+  );
+}
+

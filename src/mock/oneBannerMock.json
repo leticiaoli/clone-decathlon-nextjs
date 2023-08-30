@@ -1,0 +1,20 @@
+{
+  "mobile": [
+    {
+      "image": "OneBanner.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "accessories banner",
+      "link": "/"
+    }
+  ],
+  "desktop": [
+    {
+      "image": "OneBannerD.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "accessories banner",
+      "link": "/"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "mobile": [
+    {
+      "image": "bannerM1.png",
+      "width": 300,
+			"height": 500,
+			"alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerM2.png",
+      "width": 300,
+			"height": 500,
+			"alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerM3.png",
+      "width": 300,
+			"height": 500,
+			"alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerM4.png",
+      "width": 300,
+			"height": 500,
+			"alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerM5.png",
+      "width": 300,
+			"height": 500,
+			"alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerM6.png",
+      "width": 300,
+			"height": 500,
+			"alt": "banner offers",
+      "link": "/"
+    }
+  ],
+  "desktop": [
+    {
+      "image": "bannerD1.png",
+			"width": 1682,
+			"height": 797,
+      "alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerD2.png",
+			"width": 1682,
+			"height": 797,
+      "alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerD3.png",
+			"width": 1682,
+			"height": 797,
+      "alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerD4.png",
+			"width": 1682,
+			"height": 797,
+      "alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerD5.png",
+			"width": 1682,
+			"height": 797,
+      "alt": "banner offers",
+      "link": "/"
+    },
+    {
+      "image": "bannerD6.png",
+			"width": 1682,
+			"height": 797,
+      "alt": "banner offers",
+      "link": "/"
+    }
+  ]
+}

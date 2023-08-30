@@ -1,8 +1,6 @@
-import styles from "./Footer.module.css";
-
-import Image from "next/image";
-
-import BtnCountries from "../BtnCountries";
+import styles from "./Footer.module.css"
+import Image from "next/image"
+import BtnCountries from "../BtnCountries"
 
 export default function Footer() {
   return (
@@ -123,52 +121,52 @@ export default function Footer() {
           </ul>
           <Image
             className={styles.imgPayFooter}
-            src="/../public/cartaoVisa.jpg"
+            src="/cartaoVisa.jpg"
             width={40}
             height={20}
-            alt="Picture of the author"
+            alt="flag card visa"
           />
           <Image
             className={styles.imgPayFooter}
-            src="/../public/cartaoMaster.jpg"
+            src="/cartaoMaster.jpg"
             width={40}
             height={20}
-            alt="Picture of the author"
+            alt="flag card Master"
           />
           <Image
             className={styles.imgPayFooter}
-            src="/../public/cartaoElo.jpg"
+            src="/cartaoElo.jpg"
             width={40}
             height={20}
-            alt="Picture of the author"
+            alt="flag card elo"
           />
           <Image
             className={styles.imgPayFooter}
-            src="/../public/cartaoClub.jpg"
+            src="/cartaoClub.jpg"
             width={40}
             height={20}
-            alt="Picture of the author"
+            alt="flag card club"
           />
           <Image
             className={styles.imgPayFooter}
-            src="/../public/cartaoAmex.jpg"
+            src="/cartaoAmex.jpg"
             width={40}
             height={20}
-            alt="Picture of the author"
+            alt="flag card amex"
           />
           <Image
             className={styles.imgPayFooter}
-            src="/../public/boleto.jpg"
+            src="/boleto.jpg"
             width={40}
             height={20}
-            alt="Picture of the author"
+            alt="bill payment"
           />
           <Image
             className={styles.imgPayFooter}
-            src="/../public/payPal.jpg"
+            src="/payPal.jpg"
             width={40}
             height={20}
-            alt="Picture of the author"
+            alt="Payment Paypal"
           />
         </div>
         <div className={styles.boxListFooterDown}>
@@ -178,17 +176,17 @@ export default function Footer() {
           </ul>
           <Image
             className={styles.imgSslFooter}
-            src="/../public/seloSeguranca.jpg"
+            src="/seloSeguranca.jpg"
             width={62}
             height={44}
-            alt="Picture of the author"
+            alt="Lest's encrypr certificate"
           />
           <Image
             className={styles.imgSslFooter}
-            src="/../public/seloSeguranca2.jpg"
+            src="/seloSeguranca2.jpg"
             width={47}
             height={44}
-            alt="Picture of the author"
+            alt="Pci certificate"
           />
         </div>
         <div className={styles.boxListFooterDown}>
@@ -198,10 +196,10 @@ export default function Footer() {
           </ul>
           <Image
             className={styles.imgEbitFooter}
-            src="/../public/premiacao.jpg"
+            src="/premiacao.jpg"
             width={50}
             height={67}
-            alt="Picture of the author"
+            alt="e-bit seal"
           />
         </div>
         <div className={styles.boxListFooterDown}>
@@ -211,10 +209,10 @@ export default function Footer() {
           </ul>
           <Image
             className={styles.imgKondutotFooter}
-            src="/../public/contraFraudes.png"
+            src="/contraFraudes.png"
             width={91}
             height={21}
-            alt="Picture of the author"
+            alt="e-bit Konduto"
           />
         </div>
       </div>

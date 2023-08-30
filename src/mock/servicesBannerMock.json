@@ -1,0 +1,62 @@
+{
+    "mobile": [
+      {
+        "image": "servBanner1.jpg",
+        "width": 300,
+        "height": 500,
+        "alt": "accessories banner",
+        "link": "/"
+      },
+      {
+        "image": "servBanner2.jpg",
+        "width": 300,
+        "height": 500,
+        "alt": "accessories banner",
+        "link": "/"
+      },
+      {
+        "image": "servBanner3.jpg",
+        "width": 300,
+        "height": 500,
+        "alt": "accessories banner",
+        "link": "/"
+      },
+      {
+        "image": "servBanner4.jpg",
+        "width": 300,
+        "height": 500,
+        "alt": "accessories banner",
+        "link": "/"
+      }
+    ],
+    "desktop": [
+      {
+        "image": "servBannerD1.jpg",
+        "width": 1682,
+        "height": 797,
+        "alt": "accessories banner",
+        "link": "/"
+      },
+      {
+        "image": "servBannerD2.jpg",
+        "width": 1682,
+        "height": 797,
+        "alt": "accessories banner",
+        "link": "/"
+      },
+      {
+        "image": "servBannerD3.jpg",
+        "width": 1682,
+        "height": 797,
+        "alt": "accessories banner",
+        "link": "/"
+      },
+      {
+        "image": "servBannerD4.jpg",
+        "width": 1682,
+        "height": 797,
+        "alt": "accessories banner",
+        "link": "/"
+      }
+    ]
+  }

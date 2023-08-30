@@ -1,0 +1,76 @@
+{
+  "mobile": [
+    {
+      "image": "sugesBanner1.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "Suggestion banner",
+      "link": "/"
+    },
+    {
+      "image": "sugesBanner2.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "Suggestion banner",
+      "link": "/"
+    },
+    {
+      "image": "sugesBanner3.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "Suggestion banner",
+      "link": "/"
+    },
+    {
+      "image": "sugesBanner4.jpg",
+      "width": 300,
+      "height": 500,
+      "alt": "Suggestion banner",
+      "link": "/"
+    },
+    {
+        "image": "sugesBanner5.jpg",
+        "width": 300,
+        "height": 500,
+        "alt": "Suggestion banner",
+        "link": "/"
+      }
+  ],
+  "desktop": [
+    {
+      "image": "sugesBannerD1.jpg",
+      "width": 1682,
+      "height": 797,
+      "alt": "Suggestion banner",
+      "link": "/"
+    },
+    {
+        "image": "sugesBannerD2.jpg",
+        "width": 1682,
+        "height": 797,
+        "alt": "Suggestion banner",
+        "link": "/"
+      },
+      {
+        "image": "sugesBannerD3.jpg",
+        "width": 1682,
+        "height": 797,
+        "alt": "Suggestion banner",
+        "link": "/"
+      },
+      {
+        "image": "sugesBannerD4.jpg",
+        "width": 1682,
+        "height": 797,
+        "alt": "Suggestion banner",
+        "link": "/"
+      },
+      {
+        "image": "sugesBannerD5.jpg",
+        "width": 1682,
+        "height": 797,
+        "alt": "Suggestion banner",
+        "link": "/"
+      }
+  ]
+}
